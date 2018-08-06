@@ -106,7 +106,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 #### Lab Notebooks:  
 
 [Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb) *Submission required*   
- 
+
 [Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
 
 ---
@@ -129,10 +129,10 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 #### Lecture:
 
 [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)  
-[Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)
+[Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 
 #### Lab Notebooks:   
-[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised Learning - Logistic Regression.ipynb) *Submission required*   
+[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic Regression.ipynb)   *Submission required*   
 
 ---
 
@@ -145,7 +145,6 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 ---
 
 #### Week 7: Decision Trees  
-K-means, hierarchical agglomerative, probabilistic
 
 #### Lecture:
 [Decision Trees](slides/08_decision_trees.pdf)   
