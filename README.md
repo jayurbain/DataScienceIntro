@@ -84,14 +84,14 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 *Note: Consider expanding visualization to include latest D3.js*
 
 #### Hands-on Notebooks:  
-[Python Numpy Aggregates]("notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb")
-[Pandas Data Manipulation]("notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb")  
-[Python Reading and Writing CSV files]("notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb")  
-[Data Visualization]("notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb")  
+[Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
+[Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)  
+[Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
+[Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
 
 #### Lab Notebooks:
-[NumPy Stack]("labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb") *Submission required*  
-[Stanford Low Back Pain Data Analysis]("labs/lab_2_eda/lab_2_eda_backpain.ipynb") *Submission required*
+[NumPy Stack](labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb) *Submission required*  
+[Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
 
 ---
 
@@ -99,17 +99,17 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Lecture:
 
-[Linear Regression]("slides/08_linear_regression.pdf")
+[Linear Regression](slides/08_linear_regression.pdf)
 
-[Linear Regression Notebook]("notebooks/08_linear_regression.ipynb") *Use for second lecture*
+[Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*
 
 #### Lab Notebooks:  
 
-[Introduction to Machine Learning with Scikit Learn]("labs/Lab3_LinearRegression/Introduction to Machine Learning with SciKit Learn.ipynb") *Submission required*   
+[Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction to Machine Learning with SciKit Learn.ipynb) *Submission required*   
 
-[Linear Regression]("labs/Lab3_LinearRegression/Lab3_LinearRegression.ipynb") *Submission required*  
+[Linear Regression](labs/Lab3_LinearRegression/Lab3_LinearRegression.ipynb) *Submission required*  
 **OR**  
-[Supervised Learning Linear Regression]("labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear Regression.ipynb") *Submission required*
+[Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear Regression.ipynb) *Submission required*
 
 ---
 
@@ -117,12 +117,12 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Lecture:
 
-[Introduction to Machine Learning with KNN]("slides/06_machine_learning_knn.pdf")  
+[Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
 
-[Naive Bayes Classification]("slides/06_naive_bayes.pdf")
+[Naive Bayes Classification](slides/06_naive_bayes.pdf)
 
 #### Lab Notebooks:   
-[Bayesian Analysis with pgmpy]("labs/lab4_bayes/Learning&#32;Bayesian&#32;Networks&#32;from&#32;Data&#32;-&#32;Back&#32;Pain&#32;Dataset.ipynb") *Submission required*   
+[Bayesian Analysis with pgmpy](labs/lab4_bayes/Learning&#32;Bayesian&#32;Networks&#32;from&#32;Data&#32;-&#32;Back&#32;Pain&#32;Dataset.ipynb) *Submission required*   
 
 ---
 
@@ -130,11 +130,11 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Lecture:
 
-[Model Evaluation and Metrics]("slides/07_model_evaluation_and_metrics.pdf")  
-[Logistic Regression Classification]("slides/09_logistic_regression_classification.pdf")
+[Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)  
+[Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)
 
 #### Lab Notebooks:   
-[Supervised Learning - Logistic Regression]("labs/Lab5_Logistic_Regression/Supervised Learning - Logistic Regression.ipynb") *Submission required*   
+[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised Learning - Logistic Regression.ipynb) *Submission required*   
 
 ---
 
@@ -150,23 +150,23 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 K-means, hierarchical agglomerative, probabilistic
 
 #### Lecture:
-[Decision Trees]("slides/08_decision_trees.pdf")   
+[Decision Trees](slides/08_decision_trees.pdf)   
 
 #### Lab Notebooks:   
-[Decision Trees]("labs/Lab7&#32;DecisionTrees/Decision&#32;Trees.ipynb") *Submission required*   
+[Decision Trees](labs/Lab7&#32;DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
 
 #### Week 8: Unsupervised learning, clustering, dimensionality reduction
 
 #### Lecture:
 
-[Clustering - K-Means]("slides/12_clustering.pdf")  
+[Clustering - K-Means](slides/12_clustering.pdf)  
 
-[Clustering - Hierarchical, Probabilistic]("slides/12_clustering.pdf")  
+[Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
 
 #### Lab Notebooks:   
-[K-Means Clustering]("labs/Lab8_clustering/K-Means.ipynb") *Submission required*   *Need to finish this lab*
+[K-Means Clustering](labs/Lab8_clustering/K-Means.ipynb) *Submission required*   *Need to finish this lab*
 
-[PCA]("classification-and-pca-lab.ipynb")   
+[PCA](classification-and-pca-lab.ipynb)   
 
 [Introduce final project ]()  *Define*
 
