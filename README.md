@@ -150,7 +150,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 [Decision Trees](slides/08_decision_trees.pdf)   
 
 #### Lab Notebooks:   
-[Decision Trees](labs/Lab7&#32;DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
+[Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
 
 #### Week 8: Unsupervised learning, clustering, dimensionality reduction
 
