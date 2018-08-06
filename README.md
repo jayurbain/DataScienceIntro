@@ -173,12 +173,12 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 ---
 
 #### Week 9:  Ensemble methods, Random Forests, Bagging, Boosting
-[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)
+[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
 
-#### Lab Notebooks:
+#### Lab Notebooks:  
 
-[Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  *Need to finish this lab or drop*
-[Work on final project ]()   *Define*   
+[Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  *Need to finish this lab or drop*  
+[Work on final project ]()   *Define*    
 
 ---
 
@@ -188,10 +188,6 @@ Potential topics:
 [Neural Networks](http://jayurbain.com/msoe/cs498-machinelearning/slides/neuralnetwork.pdf)
 
 [Recommendation Systems](http://jayurbain.com/msoe/cs498-machinelearning/slides/Recommendations.pdf)
-
-[Recommendation Systems with Latent Factor Models][http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Lab%206%20-%20Collaborative%20Filtering.txt](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Lab%206%20-%20Collaborative%20Filtering.txt)
-
-[Intro to Big Data and Spark](https://github.com/jayurbain/SparkIntro)
 
 [Intro to Big Data and Spark](https://github.com/jayurbain/SparkIntro)
 
@@ -205,6 +201,7 @@ Potential topics:
 
 [Deep NLP Intro](https://github.com/jayurbain/DeepNLPIntro)
 
+[Recommendation Systems with Latent Factor Models][http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Lab%206%20-%20Collaborative%20Filtering.txt](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Lab%206%20-%20Collaborative%20Filtering.txt)
 
 Optional content notes:  
 - NLP   
