@@ -105,9 +105,9 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Lab Notebooks:  
 
-[Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit Learn.ipynb) *Submission required*   
+[Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb) *Submission required*   
 
-[Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;Linear Regression.ipynb) *Submission required*  
+[Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;Linear&#32;Regression.ipynb) *Submission required*  
 **OR**  
 [Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
 
