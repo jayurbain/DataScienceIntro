@@ -132,7 +132,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 
 #### Lab Notebooks:   
-[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic Regression.ipynb)   *Submission required*   
+[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
 
 ---
 
