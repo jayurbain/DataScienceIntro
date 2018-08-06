@@ -2,6 +2,7 @@
 ### Issues:  
 - More lectures/labs versus final project   
 - Content review  
+- Clustering lab needs work
 
 ---
 
@@ -59,15 +60,15 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Hands-on Notebooks:  
 
-2. [Dates and Time](notebooks/Dates and Time.ipynb)  
-3. [Python Objects Map Lambda List Comprehensions](notebooks/Dates and Time.ipynb)  
-4. [Python Numpy](notebooks/Python Numpy.ipynb) *Submission required*
+2. [Dates and Time]("notebooks/Dates and Time.ipynb")  
+3. [Python Objects Map Lambda List Comprehensions]("notebooks/Dates and Time.ipynb")  
+4. [Python Numpy]("notebooks/Python Numpy.ipynb") *Submission required*
 
 *Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*
 
 #### Lab Notebooks:
-[Using Jupyter Notebooks](labs/lab_0_python/jupyter.ipynb)  
-[NumPy Stack](labs/lab_0_python/lab_0_python.ipynb) *Submission required*   
+[Using Jupyter Notebooks]("labs/lab_0_python/jupyter.ipynb")  
+[NumPy Stack]("labs/lab_0_python/lab_0_python.ipynb") *Submission required*   
 
 ---
 
@@ -204,12 +205,9 @@ Potential topics:
 [Deep NLP Intro](https://github.com/jayurbain/DeepNLPIntro)
 
 
-Optional material:  
+Optional content notes:  
 - NLP   
 - NN, DL  
 - SVM  
 - XGBoost  
 - Linear Discriminant Methods  
-
-#### Lab Notebooks:   
-[Work on final project ]()   *Define*
