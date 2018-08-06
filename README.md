@@ -84,8 +84,8 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 *Note: Consider expanding visualization to include latest D3.js*
 
 #### Hands-on Notebooks:  
-[Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
-[Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)  
+[Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)  
+[Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
 [Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
 [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
 
@@ -105,11 +105,11 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Lab Notebooks:  
 
-[Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction to Machine Learning with SciKit Learn.ipynb) *Submission required*   
+[Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit Learn.ipynb) *Submission required*   
 
-[Linear Regression](labs/Lab3_LinearRegression/Lab3_LinearRegression.ipynb) *Submission required*  
+[Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;Linear Regression.ipynb) *Submission required*  
 **OR**  
-[Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear Regression.ipynb) *Submission required*
+[Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
 
 ---
 
