@@ -161,7 +161,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 [Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
 
 #### Lab Notebooks:   
-[K-Means Clustering](labs/Lab8_clustering/K-Means.ipynb) *Submission required*   *Need to finish this lab*
+[K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   *Need to finish this lab*
 
 [PCA](classification-and-pca-lab.ipynb)   
 
