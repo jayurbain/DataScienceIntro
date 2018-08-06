@@ -85,7 +85,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 #### Hands-on Notebooks:  
 [Python Numpy Aggregates]("notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb")
-[Pandas Data Manipulation]("notebooks/6 &#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb")  
+[Pandas Data Manipulation]("notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb")  
 [Python Reading and Writing CSV files]("notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb")  
 [Data Visualization]("notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb")  
 
