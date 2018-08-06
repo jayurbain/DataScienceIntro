@@ -173,11 +173,11 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 ---
 
 #### Week 9:  Ensemble methods, Random Forests, Bagging, Boosting
-[Validation, Bagging, Boosting, Random Forests](09_validation_boostrap_boosting.pdf)
+[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)
 
 #### Lab Notebooks:
 
-[Random Forests and Boosting](RF_and_Boosting.ipynb)  *Need to finish this lab or drop*
+[Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  *Need to finish this lab or drop*
 [Work on final project ]()   *Define*   
 
 ---
