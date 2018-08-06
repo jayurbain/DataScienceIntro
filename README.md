@@ -1,9 +1,10 @@
 ---
 ### Issues:  
+- Commit EHR project  
 - More lectures/labs versus final project   
 - Content review  
-- Clustering lab needs work
-
+- Clustering lab needs work  
+- Define final project  
 ---
 
 ### Introduction to Data Science
@@ -83,10 +84,10 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 *Note: Consider expanding visualization to include latest D3.js*
 
 #### Hands-on Notebooks:  
-[Python Numpy Aggregates]("notebooks/5 - Python Numpy Aggregates.ipynb")
-[Pandas Data Manipulation]("notebooks/6 - Pandas Data Manipulation.ipynb")  
-[Python Reading and Writing CSV files]("notebooks/7 - Python Reading and Writing CSV files.ipynb")  
-[Data Visualization]("notebooks/8 - Data Visualization.ipynb")  
+[Python Numpy Aggregates]("notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb")
+[Pandas Data Manipulation]("notebooks/6 &#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb")  
+[Python Reading and Writing CSV files]("notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb")  
+[Data Visualization]("notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb")  
 
 #### Lab Notebooks:
 [NumPy Stack]("labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb") *Submission required*  
@@ -108,7 +109,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 [Linear Regression]("labs/Lab3_LinearRegression/Lab3_LinearRegression.ipynb") *Submission required*  
 **OR**  
-[Supervised Learning Linear Regression]("labs/Lab3_LinearRegression/Supervised Learning -  Linear Regression.ipynb") *Submission required*
+[Supervised Learning Linear Regression]("labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear Regression.ipynb") *Submission required*
 
 ---
 
@@ -121,7 +122,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 [Naive Bayes Classification]("slides/06_naive_bayes.pdf")
 
 #### Lab Notebooks:   
-[Bayesian Analysis with pgmpy]("labs/lab4_bayes/Learning Bayesian Networks from Data - Back Pain Dataset.ipynb") *Submission required*   
+[Bayesian Analysis with pgmpy]("labs/lab4_bayes/Learning&#32;Bayesian&#32;Networks&#32;from&#32;Data&#32;-&#32;Back&#32;Pain&#32;Dataset.ipynb") *Submission required*   
 
 ---
 
@@ -152,7 +153,7 @@ K-means, hierarchical agglomerative, probabilistic
 [Decision Trees]("slides/08_decision_trees.pdf")   
 
 #### Lab Notebooks:   
-[Decision Trees]("labs/Lab7_DecisionTrees/Decision Trees.ipynb") *Submission required*   
+[Decision Trees]("labs/Lab7&#32;DecisionTrees/Decision&#32;Trees.ipynb") *Submission required*   
 
 #### Week 8: Unsupervised learning, clustering, dimensionality reduction
 
