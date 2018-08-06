@@ -61,7 +61,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 #### Hands-on Notebooks:  
 
 <a href="notebooks/2 - Dates and Time.ipynb">Dates and Time</a>
-[Python Objects Map Lambda List Comprehensions](notebooks/3 - Python Objects Map Lambda List Comprehensions.ipynb)  
+[Python Objects Map Lambda List Comprehensions](<notebooks/3 - Python Objects Map Lambda List Comprehensions.ipynb>)  
 [Python Numpy](notebooks/4 - Python Numpy.ipynb) *Submission required*
 
 *Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*
