@@ -4,6 +4,7 @@
 - More lectures/labs versus final project   
 - Content review  
 - Clustering lab needs work  
+- PCA assignment??  
 - Define final project  
 ---
 
@@ -163,7 +164,9 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 #### Lab Notebooks:   
 [K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   *Need to finish this lab*
 
-[PCA](classification-and-pca-lab.ipynb)   
+[SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
+
+[PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
 
 [Introduce final project ]()  *Define*
 
