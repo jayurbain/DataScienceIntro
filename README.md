@@ -57,7 +57,8 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 [Back Pain](https://github.com/jayurbain/BackPain)    
 [Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)    
-[Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)    
+[Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)  
+[Donor's Choice](https://www.kaggle.com/codename007/a-very-extensive-end-to-end-project-donorschoose)  
 [Vehicle Detection](https://github.com/jayurbain/CarND-Vehicle-Detection)  
 
 #### Lab Notebooks:
