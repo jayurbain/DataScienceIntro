@@ -97,7 +97,7 @@ Outcomes addressed in week 2:
 
 1. [Probability, Stats, and Visualization](slides/04_eda_stats_viz.pdf)  
 
-2. [Visualization Tools]()  *Add state-of-the-art visualization; Tableau, d3.js, etc.*
+2. [Visualization Tools](slides/04_viz_methods_tools.pdf)  *Add state-of-the-art visualization; Tableau, d3.js, etc.*
 
 #### Lab Notebooks:
 [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)   
@@ -221,7 +221,7 @@ Outcomes addressed in week 9:
 
 #### Lab Notebooks:     
 
-[SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
+1. [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
 
 [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
 
