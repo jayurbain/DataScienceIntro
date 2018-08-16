@@ -4,23 +4,24 @@
 
 This course provides an introduction to applied data science including data preparation, data analysis, factor analysis, statistical inference, predictive modeling, and data visualization.
 
-The overall goal of data science is to extract information from a data set and transform it into an understandable structure for further use.
+The goal of data science is to extract information from a data set and transform it into an understandable structure for further use.
 
-The course will place an emphasis placed on understanding fundamentals using scripting languages and interactive methods to learn course concepts. Problems and data sets are selected from a broad range of disciplines of interest to students, faculty, and industry partners.
+This course will place an emphasis placed on understanding fundamentals using scripting languages and interactive methods to learn course concepts. Problems and data sets are selected from a broad range of disciplines of interest to students, faculty, and industry partners.
 
 2 hours of weekly lectures and 2-hour labs are provided each week. Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: numpy, pandas, scipy, statsmodels, scikit-learn, and matplotlib.
 
-Pre-requisite: MA-262 Probability and Statistics; and CS-2852 Data Structures or equivalent level of programming maturity.  
+Prerequisites: MA-262 Probability and Statistics; and CS-2852 Data Structures or equivalent level of programming maturity.  
 
 Outcomes:   
-•	The ability to identify, load, and prepare a data set for a given problem.  
-•	The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-•	The ability to perform basic data analysis and statistical inference.  
-•	The ability to perform supervised learning of prediction models.  
-•	The ability to perform unsupervised learning.  
-•	The ability to perform data visualization and report generation.  
-•	The ability to assess the quality of predictions and inferences.  
-•	The ability to apply methods to real world data sets.  
+- Understand the basic process of data science.
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform basic data analysis and statistical inference.  
+- The ability to perform supervised learning of prediction models.  
+- The ability to perform unsupervised learning.  
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.  
 
 Tools: Python and related packages for data analysis, machine learning, and visualization. Jupyter Notebooks.  
 
@@ -59,6 +60,9 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 *Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*  
 
+Outcomes addressed in week 1:   
+- Understand the basic process of data science
+
 ---
 
 ### Week 2: NumPy Stack, Exploratory Data Analysis
@@ -81,6 +85,10 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 [NumPy Stack](labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb) *Submission required*  
 [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
 
+Outcomes addressed in week 2:  
+- Understand the basic process of data science    
+- The ability to identify, load, and prepare a data set for a given problem.  
+
 ---
 
 ### Week 3: Probability and Statistical Inference, Visualization   
@@ -89,11 +97,17 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 1. [Probability, Stats, and Visualization](slides/04_eda_stats_viz.pdf)  
 
-2. 1. [Visualization Tools]()  *Add state-of-the-art visualization; Tableau, d3.js, etc.*
+2. [Visualization Tools]()  *Add state-of-the-art visualization; Tableau, d3.js, etc.*
 
 #### Lab Notebooks:
 [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)   
 [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
+
+Outcomes addressed in week 3:   
+- Understand the basic process of data science  
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to perform data visualization and report generation.  
+- The ability to perform basic data analysis and statistical inference.  
 
 ---
 
@@ -110,6 +124,13 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 [Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb) *Submission required*   
 [Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
 
+Outcomes addressed in week 4:   
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform basic data analysis and statistical inference.  
+- The ability to perform supervised learning of prediction models.
+- The ability to perform data visualization and report generation.   
+- The ability to apply methods to real world data sets.
+
 ---
 
 ### Week 5: Introduction to Machine Learning, KNN, Model Evaluation and Metrics. Logistic Regression
@@ -123,9 +144,16 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 #### Lab Notebooks:   
 [Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
+
+Outcomes addressed in week 5:   
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.  
+- The ability to perform supervised learning of prediction models.  
+
 ---
 
-#### Week 6: Logistic Regression Classification, Model Selection and Regularization  
+#### Week 6: Midterm, catch up
 
 #### Lecture:
 1. Midterm review
@@ -135,9 +163,17 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 #### Lab Notebooks:   
 [Supervised Learning - Logistic Regression continued](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
 
+Outcomes addressed in week 6:
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform supervised learning of prediction models.  
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.
+
 ---
 
-#### Week 8: Bayesian Methods, Decision Trees  
+#### Week 7: Bayesian Methods, Decision Trees  
 
 #### Lecture:
 1. [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
@@ -146,22 +182,54 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 #### Lab Notebooks:   
 [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
 
-#### Week 9: Unsupervised learning, clustering, dimensionality reduction
+Outcomes addressed in week 8:
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform supervised learning of prediction models.  
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.
+
+#### Week 8: Unsupervised learning, clustering, dimensionality reduction
 
 #### Lecture:
 
-[Clustering - K-Means](slides/12_clustering.pdf)  
+1. [Clustering - K-Means](slides/12_clustering.pdf)  
 
-[Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
+2. [Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
 
 #### Lab Notebooks:   
 [K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   
+
+[Introduce Data Science Project]()  
+
+Outcomes addressed in week 9:
+- The ability to identify, load, and prepare a data set for a given problem.   
+- The ability to perform unsupervised learning.  
+- The ability to perform data visualization and report generation.   
+- The ability to apply methods to real world data sets.
+
+---
+
+#### Week 9: Dimensionality reduction, collaborative filtering
+
+#### Lecture:
+
+1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
+
+2. [Collaborative Filtering](slides/12_collaborative_filtering.pdf)
+
+#### Lab Notebooks:     
 
 [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
 
 [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
 
-[Introduce final project ]()  *Define*
+[Data Science Project]()  
+
+Outcomes addressed in week 9:   
+- The ability to perform unsupervised learning.  
+- The ability to perform data visualization and report generation.   
 
 ---
 
@@ -169,9 +237,20 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 [Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
 
 #### Lab Notebooks:  
+[Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
+[Data Science Project]()   
 
-[Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  *Need to finish this lab or drop*  
-[Work on final project ]()   *Define*    
+Outcomes addressed in week 10:
+- Understand the basic process of data science
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform basic data analysis and statistical inference.  
+- The ability to perform supervised learning of prediction models.  
+- The ability to perform unsupervised learning.  
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.
+
 
 ---
 <!--
