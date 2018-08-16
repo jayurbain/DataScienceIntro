@@ -49,9 +49,15 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 2. [Data Science walkthrough example: EHR]()  *Need to check into github*
 
-2. [Python for Data Science](slides/02_python_data_science.pdf)
+3. [Python for Data Science](slides/02_python_data_science.pdf)
 
-2. [Introduction to Git and GitHub](slides/00_git_github.pdf)
+4. [Introduction to Git and GitHub](slides/00_git_github.pdf)
+
+5. Data Science end-to-end:
+
+[Back Pain](https://github.com/jayurbain/BackPain)  
+[Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)  
+[Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)  
 
 #### Lab Notebooks:
 [Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
