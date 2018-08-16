@@ -55,16 +55,16 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 5. Data Science end-to-end:
 
-[Back Pain](https://github.com/jayurbain/BackPain)    
-[Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)    
-[Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)  
-[Donor's Choice](https://www.kaggle.com/codename007/a-very-extensive-end-to-end-project-donorschoose)  
-[Vehicle Detection](https://github.com/jayurbain/CarND-Vehicle-Detection)  
+- [Back Pain](https://github.com/jayurbain/BackPain)    
+- [Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)    
+- [Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)  
+- [Donor's Choice](https://www.kaggle.com/codename007/a-very-extensive-end-to-end-project-donorschoose)  
+- [Vehicle Detection](https://github.com/jayurbain/CarND-Vehicle-Detection)  
 
 #### Lab Notebooks:
-[Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
-[Dates and Time](<notebooks/2&#32;-&#32;Dates&#32;and&#32;Time.ipynb>)  
-[Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) *Submission required*     
+- [Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
+- [Dates and Time](<notebooks/2&#32;-&#32;Dates&#32;and&#32;Time.ipynb>)  
+- [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) *Submission required*     
 
 *Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*  
 
@@ -77,21 +77,21 @@ Outcomes addressed in week 1:
 
 #### Lecture:   
 
-1. Hands-on Notebooks:   
-[Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
-[Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
+1. Lecture with Hands-on Notebooks:   
+- [Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
+- [Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
 
 2. [Exploratory Data Analysis, Pandas Dataframe](slides/03_eda_data.pdf)  
 
 #### Hands-on Notebooks:
-[Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
-[Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
-[Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
+- [Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
+- [Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
+- [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
 
 #### Lab Notebooks:
-[NumPy Stack](labs/lab_0_python/lab_0_python.ipynb) *Submission required*   
-[NumPy Stack](labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb) *Submission required*  
-[Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
+- [NumPy Stack](labs/lab_0_python/lab_0_python.ipynb) *Submission required*   
+- [NumPy Stack](labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb) *Submission required*  
+- [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
 
 Outcomes addressed in week 2:  
 - Understand the basic process of data science    
@@ -108,8 +108,8 @@ Outcomes addressed in week 2:
 2. [Visualization Tools](slides/04_viz_methods_tools.pdf)  *Add state-of-the-art visualization; Tableau, d3.js, etc.*
 
 #### Lab Notebooks:
-[Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)   
-[Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
+- [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)   
+- [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
 
 Outcomes addressed in week 3:   
 - Understand the basic process of data science  
@@ -129,8 +129,8 @@ Outcomes addressed in week 3:
 
 #### Lab Notebooks:  
 
-[Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb) *Submission required*   
-[Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
+- [Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb) *Submission required*   
+- [Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
 
 Outcomes addressed in week 4:   
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
@@ -146,12 +146,12 @@ Outcomes addressed in week 4:
 #### Lecture:
 
 1. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
-1. [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)
+2. [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)
 
-2. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+3. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 
 #### Lab Notebooks:   
-[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
+- [Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
 
 Outcomes addressed in week 5:   
 - The ability to perform data visualization and report generation.  
@@ -169,7 +169,7 @@ Outcomes addressed in week 5:
 2. Midterm   
 
 #### Lab Notebooks:   
-[Supervised Learning - Logistic Regression continued](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
+- [Supervised Learning - Logistic Regression continued](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
 
 Outcomes addressed in week 6:
 - The ability to identify, load, and prepare a data set for a given problem.  
@@ -188,7 +188,7 @@ Outcomes addressed in week 6:
 2. [Decision Trees](slides/08_decision_trees.pdf)   
 
 #### Lab Notebooks:   
-[Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
+= [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
 
 Outcomes addressed in week 8:
 - The ability to identify, load, and prepare a data set for a given problem.  
@@ -228,10 +228,8 @@ Outcomes addressed in week 9:
 2. [Collaborative Filtering](slides/12_collaborative_filtering.pdf)
 
 #### Lab Notebooks:     
-
-1. [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
-
-[PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
+- [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
+- [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
 
 [Data Science Project]()  
 
@@ -245,7 +243,8 @@ Outcomes addressed in week 9:
 [Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
 
 #### Lab Notebooks:  
-[Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
+1. [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
+
 [Data Science Project]()   
 
 Outcomes addressed in week 10:
