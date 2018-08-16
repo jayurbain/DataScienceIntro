@@ -1,16 +1,8 @@
----
-### Issues:  
-- Commit EHR project  
-- More lectures/labs versus final project   
-- Content review  
-- Clustering lab needs work  
-- PCA assignment??  
-- Define final project  
----
+----
 
 ### Introduction to Data Science
 
-This course provides an introduction to applied data science including data preparation, data analysis and statistical inference, predictive modeling, factor analysis, and data visualization.
+This course provides an introduction to applied data science including data preparation, data analysis, factor analysis, statistical inference, predictive modeling, and data visualization.
 
 The overall goal of data science is to extract information from a data set and transform it into an understandable structure for further use.
 
@@ -30,7 +22,7 @@ Outcomes:
 •	The ability to assess the quality of predictions and inferences.  
 •	The ability to apply methods to real world data sets.  
 
-Tools: Python and related packages for data analysis and visualization, Jupyter Notebooks.  
+Tools: Python and related packages for data analysis, machine learning, and visualization. Jupyter Notebooks.  
 
 References:  
 
@@ -52,108 +44,109 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 ### Week 1: Intro to Data Science, data science programming in Python  
 
 #### Lecture:    
-[Introduction to Data Science](slides/01_intro_data_science.pdf)
+1. [Introduction to Data Science](slides/01_intro_data_science.pdf)
 
-Walkthrough example: [Data Science for EHR]()  *Need to check into github*
+2. [Data Science walkthrough example: EHR]()  *Need to check into github*
 
-[Python for Data Science](slides/02_python_data_science.pdf)
+2. [Python for Data Science](slides/02_python_data_science.pdf)
 
-[Introduction to Git and GitHub](slides/00_git_github.pdf)
-
-#### Hands-on Notebooks:  
-
-[Dates and Time](<notebooks/2&#32;-&#32;Dates&#32;and&#32;Time.ipynb>)
-[Python Objects Map Lambda List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>)  
-[Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*
-
-*Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*
+2. [Introduction to Git and GitHub](slides/00_git_github.pdf)
 
 #### Lab Notebooks:
 [Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
-[NumPy Stack](labs/lab_0_python/lab_0_python.ipynb) *Submission required*   
+[Dates and Time](<notebooks/2&#32;-&#32;Dates&#32;and&#32;Time.ipynb>)  
+[Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) *Submission required*     
+
+*Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*  
 
 ---
 
-### Week 2: Exploratory Data Analysis, Probability and Statistical Inference   
+### Week 2: NumPy Stack, Exploratory Data Analysis
 
 #### Lecture:   
 
-[Exploratory Data Analysis, Pandas Dataframe](slides/03_eda_data.pdf)  
+1. Hands-on Notebooks:   
+[Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
+[Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
 
-[Probability, Stats, and Visualization](slides/04_eda_stats_viz.pdf)  
+2. [Exploratory Data Analysis, Pandas Dataframe](slides/03_eda_data.pdf)  
 
-*Note: Consider expanding visualization to include latest D3.js*
-
-#### Hands-on Notebooks:  
-[Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)  
+#### Hands-on Notebooks:
 [Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
 [Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
 [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
 
 #### Lab Notebooks:
+[NumPy Stack](labs/lab_0_python/lab_0_python.ipynb) *Submission required*   
 [NumPy Stack](labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb) *Submission required*  
 [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
 
 ---
 
-#### Week 3: Linear Regression, Multivariate Regression  
+### Week 3: Probability and Statistical Inference, Visualization   
+
+#### Lecture:   
+
+1. [Probability, Stats, and Visualization](slides/04_eda_stats_viz.pdf)  
+
+2. 1. [Visualization Tools]()  *Add state-of-the-art visualization; Tableau, d3.js, etc.*
+
+#### Lab Notebooks:
+[Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)   
+[Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
+
+---
+
+#### Week 4: Linear Regression, Multivariate Regression  
 
 #### Lecture:
 
-[Linear Regression](slides/08_linear_regression.pdf)
+1. [Linear Regression](slides/08_linear_regression.pdf)
 
-[Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*
+2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*
 
 #### Lab Notebooks:  
 
 [Introduction to Machine Learning with Scikit Learn](labs/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb) *Submission required*   
-
 [Supervised Learning Linear Regression](labs/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*
 
 ---
 
-### Week 4: Introduction to Machine Learning, KNN, Naive Bayes
+### Week 5: Introduction to Machine Learning, KNN, Model Evaluation and Metrics. Logistic Regression
 
 #### Lecture:
 
-[Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
+1. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
+1. [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)
 
-[Naive Bayes Classification](slides/06_naive_bayes.pdf)
+2. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 
 #### Lab Notebooks:   
-[Bayesian Analysis with pgmpy](labs/lab4_bayes/Learning&#32;Bayesian&#32;Networks&#32;from&#32;Data&#32;-&#32;Back&#32;Pain&#32;Dataset.ipynb) *Submission required*   
-
+[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
 ---
 
-#### Week 5: Logistic Regression Classification, Model Selection and Regularization  
+#### Week 6: Logistic Regression Classification, Model Selection and Regularization  
 
 #### Lecture:
+1. Midterm review
 
-[Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)  
-[Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+2. Midterm   
 
 #### Lab Notebooks:   
-[Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
+[Supervised Learning - Logistic Regression continued](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
 
 ---
 
-#### Week 6: Midterm  
-- Midterm   
-- Review
-
-*Consider making prior lab 2-week lab*
-
----
-
-#### Week 7: Decision Trees  
+#### Week 8: Bayesian Methods, Decision Trees  
 
 #### Lecture:
-[Decision Trees](slides/08_decision_trees.pdf)   
+1. [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
+2. [Decision Trees](slides/08_decision_trees.pdf)   
 
 #### Lab Notebooks:   
 [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
 
-#### Week 8: Unsupervised learning, clustering, dimensionality reduction
+#### Week 9: Unsupervised learning, clustering, dimensionality reduction
 
 #### Lecture:
 
@@ -162,7 +155,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 [Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
 
 #### Lab Notebooks:   
-[K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   *Need to finish this lab*
+[K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   
 
 [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
 
@@ -172,7 +165,7 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 
 ---
 
-#### Week 9:  Ensemble methods, Random Forests, Bagging, Boosting
+#### Week 10:  Optional, advanced methods: Ensemble methods, Random Forests, Bagging, Boosting, Neural Networks
 [Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
 
 #### Lab Notebooks:  
@@ -181,10 +174,14 @@ Walkthrough example: [Data Science for EHR]()  *Need to check into github*
 [Work on final project ]()   *Define*    
 
 ---
-
+<!--
 #### Week 10: Advanced methods, Time Series
 
-Potential topics:   
+Potential topics:  
+
+[Bayesian Analysis with pgmpy](labs/lab4_bayes/Learning&#32;Bayesian&#32;Networks&#32;from&#32;Data&#32;-&#32;Back&#32;Pain&#32;Dataset.ipynb) *Submission required*   
+
+
 [Neural Networks](http://jayurbain.com/msoe/cs498-machinelearning/slides/neuralnetwork.pdf)
 
 [Recommendation Systems](http://jayurbain.com/msoe/cs498-machinelearning/slides/Recommendations.pdf)
@@ -209,3 +206,4 @@ Optional content notes:
 - SVM  
 - XGBoost  
 - Linear Discriminant Methods  
+-->
