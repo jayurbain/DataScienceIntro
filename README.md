@@ -55,9 +55,10 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 5. Data Science end-to-end:
 
-[Back Pain](https://github.com/jayurbain/BackPain)  
-[Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)  
-[Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)  
+[Back Pain](https://github.com/jayurbain/BackPain)    
+[Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)    
+[Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)    
+[Vehicle Detection](https://github.com/jayurbain/CarND-Vehicle-Detection)  
 
 #### Lab Notebooks:
 [Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
