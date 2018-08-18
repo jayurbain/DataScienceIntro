@@ -1,0 +1,10 @@
+forgot to send this to you after our meeting.  I've attached my blood glucose data set.
+
+The data set contains 3 columns: timestamp, blood glucose reading, and what activity was performed prior to the reading.  The timestamp column is missing the seconds field, so at least in R, it wasn't parsed by default.  I used this to show the students the lubridate package and an example of data cleaning.  I also would have them convert the third column into a factor and impute the missing values as "unknown activity."
+
+On the analysis side, I would have them analyze look at questions like:
+
+1. How did the activities affect the blood glucose values?  Box plot of activity vs blood glucose
+2. How did blood glucose vary in time?  I would have them extract the day of the week and the hour and create box plots.  Since the data is sparse for hours that I'm not awake, I would then introduce them to binning and have them create a box plot for periods of say 4 hours/day.
+
+Overall, I would try to emphasize that data science can be applied to their own lives.  For example, using data from devices like fitbit or food / exercise journaling apps like MyFitnessPal.
