@@ -27,16 +27,16 @@ Tools: Python and related packages for data analysis, machine learning, and visu
 
 References:  
 
-[An Introduction to Statistical Learning: with Applications in R]. Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
+[An Introduction to Statistical Learning: with Applications in R. Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 
 [Python Data Science Handbook, Jake VanderPlas, O'Reilly.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-[Data Science from Scratch], Joel Grus, O'Reilly](http://shop.oreilly.com/product/0636920033400.do)
+[Data Science from Scratch, Joel Grus, O'Reilly](http://shop.oreilly.com/product/0636920033400.do)
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow
 Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron. O'Reilly Media.](http://shop.oreilly.com/product/0636920052289.do)
 
-Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://infolab.stanford.edu/~ullman/mmds.html
+[Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman.](http://infolab.stanford.edu/~ullman/mmds.html)
 
 Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistical Learning. Springer, 2009.
 
