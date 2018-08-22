@@ -213,6 +213,7 @@ Outcomes addressed in week 6:
 #### Lab Notebooks:   
 - [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
 - Reading: PDSH Ch. 5 p. 421-432   
+
 Outcomes addressed in week 8:  
 - The ability to identify, load, and prepare a data set for a given problem.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
