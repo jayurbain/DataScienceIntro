@@ -250,10 +250,10 @@ Outcomes addressed in week 9:
 #### Lecture:
 
 1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
-- Reading: PDSH Ch. 5 p. 433-444     
-- Reading: ISLR Ch. 10.2    
+- Reading: MMDS Ch. 9        
 
 2. [Collaborative Filtering](slides/12_collaborative_filtering.pdf)
+- Reading: PDSH Ch. 5 p. 433-444
 
 #### Lab Notebooks:     
 - [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)   
