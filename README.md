@@ -6,9 +6,9 @@ This course provides an introduction to applied data science including data prep
 
 The goal of data science is to extract information from a data set and transform it into an understandable structure for further use.
 
-This course will place an emphasis placed on understanding fundamentals using scripting languages and interactive methods to learn course concepts. Problems and data sets are selected from a broad range of disciplines of interest to students, faculty, and industry partners.
+An emphasis will be placed on understanding the fundamentals using scripting languages and interactive methods to learn course concepts. Problems and data sets are selected from a broad range of disciplines of interest to students, faculty, and industry partners.
 
-Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: numpy, pandas, scipy, statsmodels, scikit-learn, and matplotlib.
+Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: NumPy, Pandas, SciPy, StatsModels, SciKit-Learn, and MatPlotLib.
 
 2-2-3 (class hours/week, laboratory hours/week, credits)
 
@@ -287,7 +287,6 @@ Outcomes addressed in week 10:
 - The ability to perform data visualization and report generation.  
 - The ability to assess the quality of predictions and inferences.  
 - The ability to apply methods to real world data sets.
-
 
 ---
 <!--
