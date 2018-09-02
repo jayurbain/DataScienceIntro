@@ -52,7 +52,7 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 1. [Introduction to Data Science](slides/01_intro_data_science.pdf)
 
 2. Data Science end-to-end:   
-- [Back Pain](https://github.com/jayurbain/BackPain)    
+- [Back Pain](https://github.com/jayurbain/BackPain/blob/master/Back%20Pain%20Data%20Analysis.ipynb)    
 - [Kaggle Titanic](https://www.kaggle.com/niklasdonges/end-to-end-project-with-python)    
 - [Building Energy Data](https://github.com/WillKoehrsen/machine-learning-project-walkthrough)  
 - [Donor's Choice](https://www.kaggle.com/codename007/a-very-extensive-end-to-end-project-donorschoose)  
@@ -67,6 +67,8 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 
 #### Lab Notebooks:
 - [Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
+- [Python Programming for Data Science](labs/lab_0_python/lab_0_python.ipynb) *Submission required*
+- [Python Programming Style](labs/lab_0_python/python_programming_style.ipynb) *Optional*   
 - [Dates and Time](<notebooks/2&#32;-&#32;Dates&#32;and&#32;TIme.ipynb>)  
 - [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) *Submission required*     
 
