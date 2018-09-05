@@ -66,7 +66,7 @@ Trevor Hastie, Robert Tibshirani and Jerome Friedman, The Elements of Statistica
 -  Reference: [git - the simple guide](http://rogerdudler.github.io/git-guide/)   
 
 #### Lab Notebooks:
-- [Using Jupyter Notebooks](labs/lab_0_python/lab_0_python.ipynb)  
+- [Using Jupyter Notebooks](labs/lab_0_python/lab_0_jupyter.ipynb)  
 - [Python Programming for Data Science](labs/lab_0_python/lab_0_python.ipynb) *Submission required*
 - [Python Programming Style](labs/lab_0_python/python_programming_style.ipynb) *Optional*   
 - [Dates and Time](<notebooks/2&#32;-&#32;Dates&#32;and&#32;TIme.ipynb>)  
