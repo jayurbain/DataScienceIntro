@@ -99,7 +99,6 @@ Outcomes addressed in week 1:
 - [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
 
 #### Lab Notebooks:
-- [NumPy Stack](labs/lab_0_python/lab_0_python.ipynb) *Submission required*   
 - [NumPy Stack](labs/lab_1_numpy_stack/lab_1_numpy_stack.ipynb) *Submission required*  
 - [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
 
