@@ -94,6 +94,7 @@ Outcomes addressed in week 1:
 - Reading: DSfS Ch. 10  
 
 #### Hands-on Notebooks:
+[Diabetes Notebook](http://localhost:8888/notebooks/DataScienceIntro/DataScienceIntro/notebooks/glucose_analysis.ipynb)  
 - [Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
 - [Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
 - [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
