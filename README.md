@@ -121,7 +121,7 @@ Outcomes addressed in week 2:
 
 #### Lab Notebooks:
 - [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)   
-- [Stanford Low Back Pain Data Analysis](labs/lab_2_eda/lab_2_eda_backpain.ipynb) *Submission required*
+- [EDA Visualization](labs/Lab3_eda_viz/edaviz.ipynb#) *Submission required*
 
 Outcomes addressed in week 3:   
 - Understand the basic process of data science  
