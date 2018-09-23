@@ -135,11 +135,12 @@ Outcomes addressed in week 3:
 
 #### Lecture:
 
-1. [Linear Regression](slides/08_linear_regression.pdf)
+1. [Linear Regression 1](slides/08_linear_regression.pdf)
 - Reading: PDSH Ch. 5 p. 331-375, 390-399   
 - Reading: An Introduction to Statistical Learning: with Applications in R (ISLR) Ch. 1, 2  
 
-2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*   
+2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*  
+- [Linear Regression 2](slides/08_linear_regression.pdf)     
 - Reading: ISLR Ch. 3  
 - Reading: PDSH Ch. 5 p. 359-375  
 
