@@ -165,15 +165,12 @@ Outcomes addressed in week 4:
 1. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
 - Reading: ISLR Ch. 4.6.5  
 
-2. [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)
-- Reading: PDSH Ch. 5 p. 331-375, 390-399   
-- Reading: ISLR Ch. 5  
-
-3. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+2. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 - Reading: ISLR Ch. 4  
+- Midterm review
 
 #### Lab Notebooks:   
-- [Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
+- [Supervised Learning - Logistic Regression](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
 
 Outcomes addressed in week 5:   
 - The ability to perform data visualization and report generation.  
@@ -186,7 +183,9 @@ Outcomes addressed in week 5:
 #### Week 6: Midterm, catch up
 
 #### Lecture:
-1. Midterm review
+1. [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)
+- Reading: PDSH Ch. 5 p. 331-375, 390-399   
+- Reading: ISLR Ch. 5
 
 2. Midterm   
 
