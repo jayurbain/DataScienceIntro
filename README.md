@@ -141,7 +141,7 @@ Outcomes addressed in week 3:
 
 2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*  
 - [Linear Regression 2](slides/08_linear_regression.pdf)   
-- [Gradient Descent notebook](notebooksGradientDescent.ipynb)  
+- [Gradient Descent notebook](notebooks/GradientDescent.ipynb)  
 - Reading: ISLR Ch. 3  
 - Reading: PDSH Ch. 5 p. 359-375  
 
@@ -185,7 +185,7 @@ Outcomes addressed in week 5:
 
 #### Lecture:
 1. [Model Evaluation and Metrics](slides/07_model_evaluation_and_metrics.pdf)   
-- [Scikit-learn ROC Curve](notebooks/plot_roc.ipynb)  
+- [Scikit-learn ROC Curve notebook](notebooks/plot_roc.ipynb)  
 - Reading: PDSH Ch. 5 p. 331-375, 390-399   
 - Reading: ISLR Ch. 5
 
