@@ -189,10 +189,11 @@ Outcomes addressed in week 5:
 - Reading: PDSH Ch. 5 p. 331-375, 390-399   
 - Reading: ISLR Ch. 5
 
-2. Midterm   
-- [Midterm review study guide](handouts/Midterm-Review.pdf)
+2. Midterm
+- [Regularization and overfitting](Regularization_and_overfitting.pdf)     
 
 #### Lab Notebooks:   
+- Midterm Exam: [Midterm review study guide](handouts/Midterm-Review.pdf)  
 - [Supervised Learning - Logistic Regression continued](labs/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *2-week lab, Submission required*   
 
 Outcomes addressed in week 6:
