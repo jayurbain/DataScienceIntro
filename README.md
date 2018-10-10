@@ -190,7 +190,7 @@ Outcomes addressed in week 5:
 - Reading: ISLR Ch. 5
 
 2. Midterm
-- [Regularization and overfitting](Regularization_and_overfitting.pdf)     
+- [Regularization and overfitting](slides/Regularization_and_overfitting.pdf)     
 
 #### Lab Notebooks:   
 - Midterm Exam: [Midterm review study guide](handouts/Midterm-Review.pdf)  
