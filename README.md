@@ -206,29 +206,7 @@ Outcomes addressed in week 6:
 
 ---
 
-#### Week 7: Bayesian Methods, Decision Trees  
-
-#### Lecture:
-1. [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
-- Reading: PDSH Ch. 5 p. 382-389   
-
-2. [Decision Trees](slides/08_decision_trees.pdf)   
-- Reading: PDSH Ch. 5 p. 421-432  
-- Reading: ISLR Ch. 8   
-
-#### Lab Notebooks:   
-- [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
-- Reading: PDSH Ch. 5 p. 421-432   
-
-Outcomes addressed in week 8:  
-- The ability to identify, load, and prepare a data set for a given problem.  
-- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-- The ability to perform supervised learning of prediction models.  
-- The ability to perform data visualization and report generation.  
-- The ability to assess the quality of predictions and inferences.  
-- The ability to apply methods to real world data sets.
-
-#### Week 8: Unsupervised learning, clustering, dimensionality reduction
+#### Week 7: Unsupervised learning, clustering, dimensionality reduction
 
 #### Lecture:
 
@@ -252,7 +230,53 @@ Outcomes addressed in week 9:
 
 ---
 
-#### Week 9: Dimensionality reduction, collaborative filtering
+#### Week 8: Bayesian Methods, Decision Trees  
+
+#### Lecture:
+1. [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
+- Reading: PDSH Ch. 5 p. 382-389   
+
+2. [Decision Trees](slides/08_decision_trees.pdf)   
+- Reading: PDSH Ch. 5 p. 421-432  
+- Reading: ISLR Ch. 8   
+
+#### Lab Notebooks:   
+- [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
+- Reading: PDSH Ch. 5 p. 421-432   
+
+Outcomes addressed in week 8:  
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform supervised learning of prediction models.  
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.
+
+---
+
+#### Week 9:  Ensemble methods, Random Forests, Bagging, Boosting, XGBoost
+[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
+
+#### Lab Notebooks:  
+1. [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
+- Reading: ISLR Ch. 8.2     
+
+[Data Science Project]()   
+
+Outcomes addressed in week 10:
+- Understand the basic process of data science
+- The ability to identify, load, and prepare a data set for a given problem.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- The ability to perform basic data analysis and statistical inference.  
+- The ability to perform supervised learning of prediction models.  
+- The ability to perform unsupervised learning.  
+- The ability to perform data visualization and report generation.  
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.
+
+---
+
+#### Week 10: Dimensionality reduction, collaborative filtering
 
 #### Lecture:
 
@@ -274,26 +298,8 @@ Outcomes addressed in week 9:
 
 ---
 
-#### Week 10:  Optional, advanced methods: Ensemble methods, Random Forests, Bagging, Boosting, Neural Networks
-[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
-
-#### Lab Notebooks:  
-1. [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
-- Reading: ISLR Ch. 8.2     
-
-[Data Science Project]()   
-
-Outcomes addressed in week 10:
-- Understand the basic process of data science
-- The ability to identify, load, and prepare a data set for a given problem.  
-- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-- The ability to perform basic data analysis and statistical inference.  
-- The ability to perform supervised learning of prediction models.  
-- The ability to perform unsupervised learning.  
-- The ability to perform data visualization and report generation.  
-- The ability to assess the quality of predictions and inferences.  
-- The ability to apply methods to real world data sets.
-
+#### Week 11: Final Exam     
+Monday, 8:00 AM - 10:00 AM, S107  
 ---
 <!--
 #### Week 10: Advanced methods, Time Series
