@@ -218,9 +218,7 @@ Outcomes addressed in week 6:
 - Reading: ISLR Ch. 10.1, 10.3, 10.5.1    
 
 #### Lab Notebooks:   
-[K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   
-
-[Introduce Data Science Project]()  
+[K-Means Clustering](labs/Lab8_Clustering/Clustering.ipynb) *Submission required*    
 
 Outcomes addressed in week 9:
 - The ability to identify, load, and prepare a data set for a given problem.   
@@ -241,7 +239,8 @@ Outcomes addressed in week 9:
 - Reading: ISLR Ch. 8   
 
 #### Lab Notebooks:   
-- [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *Submission required*   
+- [Introduce Data Science Project]() *Submission required*  
+- [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb)  
 - Reading: PDSH Ch. 5 p. 421-432   
 
 Outcomes addressed in week 8:  
