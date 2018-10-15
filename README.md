@@ -215,7 +215,8 @@ Outcomes addressed in week 6:
 - Reading: ISLR Ch. 10.5.2  
 
 2. [Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
-- Reading: ISLR Ch. 10.1, 10.3, 10.5.1    
+- Reading: ISLR Ch. 10.1, 10.3, 10.5.1   
+- [SciPy Hierarchical Clustering and Dendrograms](../../notebooks/SciPy%20Hierarchical%20Clustering%20and%20Dendrograms.ipynb)     
 
 #### Lab Notebooks:   
 [K-Means Clustering](labs/Lab8_Clustering/Clustering.ipynb) *Submission required*    
