@@ -215,7 +215,8 @@ Outcomes addressed in week 6:
 - Reading: ISLR Ch. 10.5.2  
 
 2. [Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
-- [SciPy Hierarchical Clustering and Dendrograms](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/SciPy%20Hierarchical%20Clustering%20and%20Dendrograms.ipynb)   
+- [SciPy Hierarchical Clustering and Dendrogram](notebooks/SciPy_Hierarchical_Clustering_and_Dendrograms.ipynb)   
+- [DBSCAN and clustering comparisons](notebooks/DBASCAN_clustering_comparison.ipynb)   
 - Reading: ISLR Ch. 10.1, 10.3, 10.5.1     
 
 #### Lab Notebooks:   
