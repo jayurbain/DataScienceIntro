@@ -233,7 +233,8 @@ Outcomes addressed in week 9:
 #### Week 8: Bayesian Methods, Decision Trees  
 
 #### Lecture:
-1. [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
+1. Naive Bayes Classification](slides/06_naive_bayes.pdf)  
+[Naive Bayes Classification](slides/06_naive_bayes.pdf)  
 - Reading: PDSH Ch. 5 p. 382-389   
 
 2. [Decision Trees](slides/08_decision_trees.pdf)   
@@ -241,8 +242,8 @@ Outcomes addressed in week 9:
 - Reading: ISLR Ch. 8   
 
 #### Lab Notebooks:   
-- [Introduce Data Science Project]() *Submission required*  
-- [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb)  
+- [Introduce Data Science Project](Data_Science_Final_Project.pdf) *Submission required*  
+- [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *optional*
 - Reading: PDSH Ch. 5 p. 421-432   
 
 Outcomes addressed in week 8:  
