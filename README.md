@@ -242,7 +242,7 @@ Outcomes addressed in week 9:
 - Reading: ISLR Ch. 8   
 
 #### Lab Notebooks:   
-- [Introduce Data Science Project](Data_Science_Final_Project.pdf) *Submission required*  
+- [Introduce Data Science Project](labs/final_project/Data_Science_Final_Project.pdf) *Submission required*  
 - [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *optional*
 - Reading: PDSH Ch. 5 p. 421-432   
 
