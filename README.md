@@ -261,9 +261,7 @@ Outcomes addressed in week 8:
 
 #### Lab Notebooks:  
 1. [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
-- Reading: ISLR Ch. 8.2     
-
-[Data Science Project]()   
+- Reading: ISLR Ch. 8.2       
 
 Outcomes addressed in week 10:
 - Understand the basic process of data science
