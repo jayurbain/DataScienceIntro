@@ -221,7 +221,7 @@ Outcomes addressed in week 6:
 
 #### Lab Notebooks:   
 [K-Means Clustering](labs/Lab8_Clustering/Clustering.ipynb) *Submission required*    
-[Data Preprocessing and Normalization](notebooks/data_normalization.ipynb) *Submission required*   
+[Data Preprocessing and Normalization](notebooks/data_normalization.ipynb)  
 
 Outcomes addressed in week 9:
 - The ability to identify, load, and prepare a data set for a given problem.   
