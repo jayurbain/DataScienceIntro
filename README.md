@@ -234,10 +234,6 @@ Outcomes addressed in week 9:
 #### Week 8: Bayesian Methods, Decision Trees  
 
 #### Lecture:
-1. Naive Bayes Classification](slides/06_naive_bayes.pdf)  
-[Naive Bayes Classification](slides/06_naive_bayes.pdf)  
-- Reading: PDSH Ch. 5 p. 382-389   
-
 1. [Decision Trees](slides/08_decision_trees.pdf)   
 - Reading: PDSH Ch. 5 p. 421-432  
 - Reading: ISLR Ch. 8.1   
@@ -307,6 +303,12 @@ Outcomes addressed in week 9:
 Monday, 8:00 AM - 10:00 AM, S107  
 ---
 <!--
+
+1. Naive Bayes Classification](slides/06_naive_bayes.pdf)  
+[Naive Bayes Classification](slides/06_naive_bayes.pdf)  
+- Reading: PDSH Ch. 5 p. 382-389   
+
+
 #### Week 10: Advanced methods, Time Series
 
 Potential topics:  
