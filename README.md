@@ -245,7 +245,8 @@ Outcomes addressed in week 9:
 #### Lab Notebooks:   
 - [Introduce Data Science Project](labs/final_project/Data_Science_Final_Project.pdf) *Submission required*  
 - [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *optional*
-- Reading: PDSH Ch. 5 p. 421-432   
+- [Random Forests and Boosting](notebooks/Random-Forests.ipynb) *optional*
+- [Random Forests and Boosting x2](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb) *optional*    
 
 Outcomes addressed in week 8:  
 - The ability to identify, load, and prepare a data set for a given problem.  
@@ -257,12 +258,12 @@ Outcomes addressed in week 8:
 
 ---
 
-#### Week 9:  Ensemble methods, Random Forests, Bagging, Boosting, XGBoost
-[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
+#### Week 9:  XGBoost, Time Series
 
 #### Lab Notebooks:  
-1. [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)   
-- Reading: ISLR Ch. 8.2       
+1. [XGBoost - not yet posted]()     
+
+2. [Time Series - not yet posted]() 
 
 Outcomes addressed in week 10:
 - Understand the basic process of data science
@@ -303,6 +304,8 @@ Outcomes addressed in week 9:
 Monday, 8:00 AM - 10:00 AM, S107  
 ---
 <!--
+
+[Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
 
 1. Naive Bayes Classification](slides/06_naive_bayes.pdf)  
 [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
