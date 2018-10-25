@@ -238,9 +238,13 @@ Outcomes addressed in week 9:
 [Naive Bayes Classification](slides/06_naive_bayes.pdf)  
 - Reading: PDSH Ch. 5 p. 382-389   
 
-2. [Decision Trees](slides/08_decision_trees.pdf)   
+1. [Decision Trees](slides/08_decision_trees.pdf)   
 - Reading: PDSH Ch. 5 p. 421-432  
-- Reading: ISLR Ch. 8   
+- Reading: ISLR Ch. 8.1   
+
+2. [Bagging, Random Forests, Boostig](slides/Bagging_RF_Boosting.pdf)   
+- Reading: PDSH Ch. 5 p. 421-432  
+- Reading: ISLR Ch. 8.2  
 
 #### Lab Notebooks:   
 - [Introduce Data Science Project](labs/final_project/Data_Science_Final_Project.pdf) *Submission required*  
