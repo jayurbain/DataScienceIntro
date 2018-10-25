@@ -245,8 +245,8 @@ Outcomes addressed in week 9:
 #### Lab Notebooks:   
 - [Introduce Data Science Project](labs/final_project/Data_Science_Final_Project.pdf) *Submission required*  
 - [Decision Trees](labs/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *optional*
-- [Random Forests and Boosting](notebooks/Random-Forests.ipynb) *optional*
-- [Random Forests and Boosting x2](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb) *optional*    
+- [Random Forests](notebooks/Random-Forests.ipynb) *optional*
+- [Random Forests and Gradient Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb) *optional*    
 
 Outcomes addressed in week 8:  
 - The ability to identify, load, and prepare a data set for a given problem.  
