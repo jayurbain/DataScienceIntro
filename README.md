@@ -265,7 +265,7 @@ Outcomes addressed in week 8:
 - [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *optional*  
 - [Ensembling](notebooks/16_ensembling.ipynb) *optional*  
 
-2. [Time Series - not yet posted]() 
+2. [Time Series](notebooks/ARIMA-Forecasting-Intro/AirPassengersPrediction.ipynb) 
 
 Outcomes addressed in week 10:
 - Understand the basic process of data science
