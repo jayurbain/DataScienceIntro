@@ -206,7 +206,7 @@ Outcomes addressed in week 6:
 
 ---
 
-#### Week 7: Unsupervised learning, clustering, dimensionality reduction
+#### Week 7: Unsupervised learning, clustering
 
 #### Lecture:
 
@@ -231,7 +231,7 @@ Outcomes addressed in week 9:
 
 ---
 
-#### Week 8: Bayesian Methods, Decision Trees  
+#### Week 8: Decision Trees  
 
 #### Lecture:
 1. [Decision Trees](slides/08_decision_trees.pdf)   
@@ -290,6 +290,7 @@ Outcomes addressed in week 10:
 - Reading: MMDS Ch. 9        
 
 2. Final Exam - Thursday 8am-9am S-107   
+- [Final Exam Study Guide](handouts/Midterm-Review.pdf) 
 
 #### Lab Notebooks:     
 Work on Data Science Project     
