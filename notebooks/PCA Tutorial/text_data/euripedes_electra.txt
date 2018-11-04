@@ -1,0 +1,4009 @@
+﻿The Project Gutenberg EBook of The Electra of Euripides, by Euripides
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Electra of Euripides
+
+Author: Euripides
+
+Release Date: December 10, 2004 [EBook #14322]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ELECTRA OF EURIPIDES ***
+
+
+
+
+Produced by Paul Murray, Charles Bidwell and the PG Online Distributed
+Proofreading Team.
+
+
+
+
+
+
+THE
+
+ELECTRA
+
+OF
+
+EURIPIDES
+
+
+TRANSLATED INTO ENGLISH RHYMING VERSE
+WITH EXPLANATORY NOTES BY
+
+GILBERT MURRAY, LL.D., D.LITT.
+
+REGIUS PROFESSOR OF GREEK IN THE UNIVERSITY OF OXFORD
+
+
+FORTY-SECOND THOUSAND
+
+
+LONDON: GEORGE ALLEN & UNWIN LTD
+RUSKIN HOUSE, 40 MUSEUM STREET, W.C.1
+
+
+_First Edition, November_ 1905
+_Reprinted, November_ 1906
+    "      _February_ 1908
+    "      _March_ 1910
+    "      _December_ 1910
+    "      _February_ 1913
+    "      _April_ 1914
+    "      _June_ 1916
+    "      _November_ 1919
+    "      _April_ 1921
+    "      _January_ 1923
+    "      _May_ 1925
+    "      _August_ 1927
+    "      _January_ 1929
+
+_(All rights reserved)_
+
+
+PERFORMED AT
+THE COURT THEATRE, LONDON
+IN 1907
+
+_Printed in Great Britain by
+Unwin Brothers Ltd., Woking_
+
+
+
+
+Introduction[1]
+
+
+The _Electra_ of Euripides has the distinction of being, perhaps, the best
+abused, and, one might add, not the best understood, of ancient tragedies.
+"A singular monument of poetical, or rather unpoetical perversity;" "the
+very worst of all his pieces;" are, for instance, the phrases applied to
+it by Schlegel. Considering that he judged it by the standards of
+conventional classicism, he could scarcely have arrived at any different
+conclusion. For it is essentially, and perhaps consciously, a protest
+against those standards. So, indeed, is the tragedy of _The Trojan Women_;
+but on very different lines. The _Electra_ has none of the imaginative
+splendour, the vastness, the intense poetry, of that wonderful work. It is
+a close-knit, powerful, well-constructed play, as realistic as the tragic
+conventions will allow, intellectual and rebellious. Its _psychology_
+reminds one of Browning, or even of Ibsen.
+
+To a fifth-century Greek all history came in the form of legend; and no
+less than three extant tragedies, Aeschylus' _Libation-Bearers_ (456
+B.C.), Euripides' _Electra_ (413 B.C.), and Sophocles' _Electra_ (date
+unknown: but perhaps the latest of the three) are based on the particular
+piece of legend or history now before us. It narrates how the son and
+daughter of the murdered king, Agamemnon, slew, in due course of revenge,
+and by Apollo's express command, their guilty mother and her paramour.
+
+Homer had long since told the story, as he tells so many, simply and
+grandly, without moral questioning and without intensity. The atmosphere
+is heroic. It is all a blood-feud between chieftains, in which Orestes,
+after seven years, succeeds in slaying his foe Aegisthus, who had killed
+his father. He probably killed his mother also; but we are not directly
+told so. His sister may have helped him, and he may possibly have gone mad
+afterwards; but these painful issues are kept determinedly in the shade.
+
+Somewhat surprisingly, Sophocles, although by his time Electra and
+Clytemnestra had become leading figures in the story and the mother-murder
+its essential climax, preserves a very similar atmosphere. His tragedy is
+enthusiastically praised by Schlegel for "the celestial purity, the fresh
+breath of life and youth, that is diffused over so dreadful a subject."
+"Everything dark and ominous is avoided. Orestes enjoys the fulness of
+health and strength. He is beset neither with doubts nor stings of
+conscience." Especially laudable is the "austerity" with which Aegisthus
+is driven into the house to receive, according to Schlegel, a specially
+ignominious death!
+
+This combination of matricide and good spirits, however satisfactory to
+the determined classicist, will probably strike most intelligent readers
+as a little curious, and even, if one may use the word at all in
+connection with so powerful a play, undramatic. It becomes intelligible as
+soon as we observe that Sophocles was deliberately seeking what he
+regarded as an archaic or "Homeric" style (cf. Jebb, Introd. p. xli.); and
+this archaism, in its turn, seems to me best explained as a conscious
+reaction against Euripides' searching and unconventional treatment of the
+same subject (cf. Wilamowitz in _Hermes_, xviii. pp. 214 ff.). In the
+result Sophocles is not only more "classical" than Euripides; he is more
+primitive by far than Aeschylus.
+
+For Aeschylus, though steeped in the glory of the world of legend, would
+not lightly accept its judgment upon religious and moral questions, and
+above all would not, in that region, play at make-believe. He would not
+elude the horror of this story by simply not mentioning it, like Homer, or
+by pretending that an evil act was a good one, like Sophocles. He faces
+the horror; realises it; and tries to surmount it on the sweep of a great
+wave of religious emotion. The mother-murder, even if done by a god's
+command, is a sin; a sin to be expiated by unfathomable suffering. Yet,
+since the god cannot have commanded evil, it is a duty also. It is a sin
+that _must_ be committed.
+
+Euripides, here as often, represents intellectually the thought of
+Aeschylus carried a step further. He faced the problem just as Aeschylus
+did, and as Sophocles did not. But the solution offered by Aeschylus did
+not satisfy him. It cannot, in its actual details, satisfy any one. To him
+the mother-murder--like most acts of revenge, but more than most--was a
+sin and a horror. Therefore it should not have been committed; and the god
+who enjoined it _did_ command evil, as he had done in a hundred other
+cases! He is no god of light; he is only a demon of old superstition,
+acting, among other influences, upon a sore-beset man, and driving him
+towards a miscalled duty, the horror of which, when done, will unseat his
+reason.
+
+But another problem interests Euripides even more than this. What kind of
+man was it--above all, what kind of woman can it have been, who would do
+this deed of mother-murder, not in sudden fury but deliberately, as an act
+of "justice," after many years? A "sympathetic" hero and heroine are out
+of the question; and Euripides does not deal in stage villains. He seeks
+real people. And few attentive readers of this play can doubt that he has
+found them.
+
+The son is an exile, bred in the desperate hopes and wild schemes of
+exile; he is a prince without a kingdom, always dreaming of his wrongs and
+his restoration; and driven by the old savage doctrine, which an oracle
+has confirmed, of the duty and manliness of revenge. He is, as was shown
+by his later history, a man subject to overpowering impulses and to fits
+of will-less brooding. Lastly, he is very young, and is swept away by his
+sister's intenser nature.
+
+That sister is the central figure of the tragedy. A woman shattered in
+childhood by the shock of an experience too terrible for a girl to bear; a
+poisoned and a haunted woman, eating her heart in ceaseless broodings of
+hate and love, alike unsatisfied--hate against her mother and stepfather,
+love for her dead father and her brother in exile; a woman who has known
+luxury and state, and cares much for them; who is intolerant of poverty,
+and who feels her youth passing away. And meantime there is her name, on
+which all legend, if I am not mistaken, insists; she is _A-lektra_, "the
+Unmated."
+
+There is, perhaps, no woman's character in the range of Greek tragedy so
+profoundly studied. Not Aeschylus' Clytemnestra, not Phaedra nor Medea.
+One's thoughts can only wander towards two great heroines of "lost" plays,
+Althaea in the _Meleager_, and Stheneboea in the _Bellerophon_.
+
+G.M.
+
+[Footnote 1: Most of this introduction is reprinted, by the kind
+permission of the Editors, from an article in the _Independent Review_
+vol. i. No. 4.]
+
+
+
+
+ELECTRA
+
+
+
+
+  CHARACTERS IN THE PLAY
+
+
+CLYTEMNESTRA, _Queen of Argos and Mycenae; widow of Agamemnon_.
+
+ELECTRA, _daughter of Agamemnon and Clytemnestra_.
+
+ORESTES, _son of Agamemnon and Clytemnestra, now in banishment_.
+
+A PEASANT, _husband of Electra_.
+
+AN OLD MAN, _formerly servant to Agamemnon_.
+
+PYLADES, _son of Strophios, King of Phocis; friend to Orestes_.
+
+AEGISTHUS, _usurping King of Argos and Mycenae, now husband of
+Clytemnestra_.
+
+The Heroes CASTOR and POLYDEUCES.
+
+CHORUS of Argive Women, with their LEADER.
+
+FOLLOWERS of ORESTES; HANDMAIDS of CLYTEMNESTRA.
+
+_The Scene is laid in the mountains of Argos. The play was first produced
+between the years_ 414 _and_ 412 B.C.
+
+
+
+
+  ELECTRA
+
+
+_The scene represents a hut on a desolate mountain side; the river Inachus
+is visible in the distance. The time is the dusk of early dawn, before
+sunrise. The_ PEASANT _is discovered in front of the hut_.
+
+PEASANT.
+
+Old gleam on the face of the world, I give thee hail,
+River of Argos land, where sail on sail
+The long ships met, a thousand, near and far,
+When Agamemnon walked the seas in war;
+Who smote King Priam in the dust, and burned
+The storied streets of Ilion, and returned
+Above all conquerors, heaping tower and fane
+Of Argos high with spoils of Eastern slain.
+
+So in far lands he prospered; and at home
+His own wife trapped and slew him. 'Twas the doom
+Aegisthus wrought, son of his father's foe.
+
+Gone is that King, and the old spear laid low
+That Tantalus wielded when the world was young.
+Aegisthus hath his queen, and reigns among
+His people. And the children here alone,
+Orestes and Electra, buds unblown
+Of man and womanhood, when forth to Troy
+He shook his sail and left them--lo, the boy
+Orestes, ere Aegisthus' hand could fall,
+Was stolen from Argos--borne by one old thrall,
+Who served his father's boyhood, over seas
+Far off, and laid upon King Strophios' knees
+In Phocis, for the old king's sake. But here
+The maid Electra waited, year by year,
+Alone, till the warm days of womanhood
+Drew nigh and suitors came of gentle blood
+In Hellas. Then Aegisthus was in fear
+Lest she be wed in some great house, and bear
+A son to avenge her father. Close he wrought
+Her prison in his house, and gave her not
+To any wooer. Then, since even this
+Was full of peril, and the secret kiss
+Of some bold prince might find her yet, and rend
+Her prison walls, Aegisthus at the end
+Would slay her. Then her mother, she so wild
+Aforetime, pled with him and saved her child.
+Her heart had still an answer for her lord
+Murdered, but if the child's blood spoke, what word
+Could meet the hate thereof? After that day
+Aegisthus thus decreed: whoso should slay
+The old king's wandering son, should win rich meed
+Of gold; and for Electra, she must wed
+With me, not base of blood--in that I stand
+True Mycenaean--but in gold and land
+Most poor, which maketh highest birth as naught.
+So from a powerless husband shall be wrought
+A powerless peril. Had some man of might
+Possessed her, he had called perchance to light
+Her father's blood, and unknown vengeances
+Risen on Aegisthus yet.
+                        Aye, mine she is:
+But never yet these arms--the Cyprian knows
+My truth!--have clasped her body, and she goes
+A virgin still. Myself would hold it shame
+To abase this daughter of a royal name.
+I am too lowly to love violence. Yea,
+Orestes too doth move me, far away,
+Mine unknown brother! Will he ever now
+Come back and see his sister bowed so low?
+
+Doth any deem me fool, to hold a fair
+Maid in my room and seek no joy, but spare
+Her maidenhood? If any such there be,
+Let him but look within. The fool is he
+In gentle things, weighing the more and less
+Of love by his own heart's untenderness.
+
+[_As he ceases_ ELECTRA _comes out of the hut. She is in mourning garb,
+and carries a large pitcher on her head. She speaks without observing the_
+PEASANT'S _presence_.
+
+ELECTRA.
+
+Dark shepherdess of many a golden star,
+Dost see me, Mother Night? And how this jar
+Hath worn my earth-bowed head, as forth and fro
+For water to the hillward springs I go?
+Not for mere stress of need, but purpose set,
+That never day nor night God may forget
+Aegisthus' sin: aye, and perchance a cry
+Cast forth to the waste shining of the sky
+May find my father's ear.... The woman bred
+Of Tyndareus, my mother--on her head
+Be curses!--from my house hath outcast me;
+She hath borne children to our enemy;
+She hath made me naught, she hath made Orestes naught....
+
+[_As the bitterness of her tone increases, the_ PEASANT _comes forward._
+
+PEASANT.
+
+What wouldst thou now, my sad one, ever fraught
+With toil to lighten my toil? And so soft
+Thy nurture was! Have I not chid thee oft,
+And thou wilt cease not, serving without end?
+
+ELECTRA (_turning to him with impulsive affection_).
+
+O friend, my friend, as God might be my friend,
+Thou only hast not trampled on my tears.
+Life scarce can be so hard, 'mid many fears
+And many shames, when mortal heart can find
+Somewhere one healing touch, as my sick mind
+Finds thee.... And should I wait thy word, to endure
+A little for thine easing, yea, or pour
+My strength out in thy toiling fellowship?
+Thou hast enough with fields and kine to keep;
+'Tis mine to make all bright within the door.
+'Tis joy to him that toils, when toil is o'er,
+To find home waiting, full of happy things.
+
+PEASANT.
+
+If so it please thee, go thy way. The springs
+Are not far off. And I before the morn
+Must drive my team afield, and sow the corn
+In the hollows.--Not a thousand prayers can gain
+A man's bare bread, save an he work amain.
+
+[ELECTRA _and the_ PEASANT _depart on their several ways. After a few
+moments there enter stealthily two armed men,_ ORESTES _and_ PYLADES.
+
+ORESTES.
+
+Thou art the first that I have known in deed
+True and my friend, and shelterer of my need.
+Thou only, Pylades, of all that knew,
+Hast held Orestes of some worth, all through
+These years of helplessness, wherein I lie
+Downtrodden by the murderer--yea, and by
+The murderess, my mother!... I am come,
+Fresh from the cleansing of Apollo, home
+To Argos--and my coming no man yet
+Knoweth--to pay the bloody twain their debt
+Of blood. This very night I crept alone
+To my dead father's grave, and poured thereon
+My heart's first tears and tresses of my head
+New-shorn, and o'er the barrow of the dead
+Slew a black lamb, unknown of them that reign
+In this unhappy land.... I am not fain
+To pass the city gates, but hold me here
+Hard on the borders. So my road is clear
+To fly if men look close and watch my way;
+If not, to seek my sister. For men say
+She dwelleth in these hills, no more a maid
+But wedded. I must find her house, for aid
+To guide our work, and learn what hath betid
+Of late in Argos.--Ha, the radiant lid
+Of Dawn's eye lifteth! Come, friend; leave we now
+This trodden path. Some worker of the plough,
+Or serving damsel at her early task
+Will presently come by, whom we may ask
+If here my sister dwells. But soft! Even now
+I see some bondmaid there, her death-shorn brow
+Bending beneath its freight of well-water.
+Lie close until she pass; then question her.
+A slave might help us well, or speak some sign
+Of import to this work of mine and thine.
+
+[_The two men retire into ambush._ ELECTRA _enters, returning from the
+well._
+
+ELECTRA.
+
+  Onward, O labouring tread,
+    As on move the years;
+  Onward amid thy tears,
+    O happier dead!
+
+Let me remember. I am she,                       [_Strophe_ 1.
+Agamemnon's child, and the mother of me
+Clytemnestra, the evil Queen,
+Helen's sister. And folk, I ween,
+That pass in the streets call yet my name
+Electra.... God protect my shame!
+  For toil, toil is a weary thing,
+    And life is heavy about my head;
+  And thou far off, O Father and King,
+    In the lost lands of the dead.
+A bloody twain made these things be;
+One was thy bitterest enemy,
+And one the wife that lay by thee.
+
+Brother, brother, on some far shore          [_Antistrophe_ 1.
+Hast thou a city, is there a door
+That knows thy footfall, Wandering One?
+Who left me, left me, when all our pain
+Was bitter about us, a father slain,
+And a girl that wept in her room alone.
+  Thou couldst break me this bondage sore,
+    Only thou, who art far away,
+  Loose our father, and wake once more....
+    Zeus, Zeus, dost hear me pray?...
+The sleeping blood and the shame and the doom!
+O feet that rest not, over the foam
+Of distant seas, come home, come home!
+
+What boots this cruse that I carry?              [_Strophe_ 2.
+  O, set free my brow!
+For the gathered tears that tarry
+  Through the day and the dark till now,
+Now in the dawn are free,
+  Father, and flow beneath
+The floor of the world, to be
+  As a song in she house of Death:
+From the rising up of the day
+They guide my heart alway,
+The silent tears unshed,
+And my body mourns for the dead;
+My cheeks bleed silently,
+  And these bruised temples keep
+Their pain, remembering thee
+  And thy bloody sleep.
+
+Be rent, O hair of mine head!
+
+As a swan crying alone
+  Where the river windeth cold,
+For a loved, for a silent one,
+  Whom the toils of the fowler hold,
+I cry, Father, to thee,
+O slain in misery!
+
+The water, the wan water,                    [_Antistrophe_ 2.
+  Lapped him, and his head
+Drooped in the bed of slaughter
+  Low, as one wearièd;
+Woe for the edgèd axe,
+  And woe for the heart of hate,
+Houndlike about thy tracks,
+  O conqueror desolate,
+From Troy over land and sea,
+Till a wife stood waiting thee;
+Not with crowns did she stand,
+Nor flowers of peace in her hand;
+With Aegisthus' dagger drawn
+  For her hire she strove,
+Through shame and through blood alone;
+  And won her a traitor's love.
+
+[_As she ceases there enter from right and left the_ CHORUS, _consisting
+of women of Argos, young and old, in festal dress_.
+
+
+  CHORUS.
+
+  _Some Women._
+
+Child of the mighty dead,                          [_Strophe_.
+  Electra, lo, my way
+To thee in the dawn hath sped,
+  And the cot on the mountain grey,
+  For the Watcher hath cried this day:
+He of the ancient folk,
+  The walker of waste and hill,
+Who drinketh the milk of the flock;
+  And he told of Hera's will;
+For the morrow's morrow now
+  They cry her festival,
+And before her throne shall bow
+  Our damsels all.
+
+ELECTRA.
+
+Not unto joy, nor sweet
+  Music, nor shining of gold,
+The wings of my spirit beat.
+  Let the brides of Argos hold
+  Their dance in the night, as of old;
+I lead no dance; I mark
+  No beat as the dancers sway;
+With tears I dwell in the dark,
+  And my thought is of tears alway,
+  To the going down of the day.
+Look on my wasted hair
+And raiment.... This that I bear,
+Is it meet for the King my sire,
+  And her whom the King begot?
+For Troy, that was burned with fire
+    And forgetteth not?
+
+
+  CHORUS.
+
+  _Other Women._
+
+Hera is great!--Ah, come,                      [_Antistrophe_.
+  Be kind; and my hand shall bring
+Fair raiment, work of the loom,
+  And many a golden thing,
+  For joyous robe-wearing.
+Deemest thou this thy woe
+  Shall rise unto God as prayer,
+Or bend thine haters low?
+  Doth God for thy pain have care?
+Not tears for the dead nor sighs,
+  But worship and joy divine
+Shall win thee peace in thy skies,
+  O daughter mine!
+
+ELECTRA.
+
+No care cometh to God
+  For the voice of the helpless; none
+For the crying of ancient blood.
+  Alas for him that is gone,
+  And for thee, O wandering one:
+That now, methinks, in a land
+  Of the stranger must toil for hire,
+And stand where the poor men stand,
+  A-cold by another's fire,
+  O son of the mighty sire:
+While I in a beggar's cot
+On the wrecked hills, changing not,
+Starve in my soul for food;
+  But our mother lieth wed
+In another's arms, and blood
+    Is about her bed.
+
+LEADER.
+
+On all of Greece she wrought great jeopardy,
+Thy mother's sister, Helen,--and on thee.
+
+[ORESTES _and_ PYLADES _move out from their concealment_; ORESTES _comes
+forward_: PYLADES _beckons to two_ ARMED SERVANTS _and stays with them in
+the background_.
+
+ELECTRA.
+
+Woe's me! No more of wailing! Women, flee!
+Strange armèd men beside the dwelling there
+Lie ambushed! They are rising from their lair.
+Back by the road, all you. I will essay
+The house; and may our good feet save us!
+
+ORESTES (_between_ ELECTRA _and the hut_).
+
+                              Stay,
+Unhappy woman! Never fear my steel.
+
+ELECTRA (_in utter panic_).
+
+O bright Apollo! Mercy! See, I kneel;
+Slay me not.
+
+ORESTES.
+
+     Others I have yet to slay
+Less dear than thou.
+
+ELECTRA.
+
+      Go from me! Wouldst thou lay
+Hand on a body that is not for thee?
+
+ORESTES.
+
+None is there I would touch more righteously.
+
+ELECTRA.
+
+Why lurk'st thou by my house? And why a sword?
+
+ORESTES.
+
+Stay. Listen! Thou wilt not gainsay my word.
+
+ELECTRA.
+
+There--I am still. Do what thou wilt with me.
+Thou art too strong.
+
+ORESTES.
+
+      A word I bear to thee...
+Word of thy brother.
+
+ELECTRA.
+
+      Oh, friend! More than friend!
+Living or dead?
+
+ORESTES.
+
+       He lives; so let me send
+My comfort foremost, ere the rest be heard.
+
+ELECTRA.
+
+God love thee for the sweetness of thy word!
+
+ORESTES.
+
+God love the twain of us, both thee and me.
+
+ELECTRA.
+
+He lives! Poor brother! In what land weareth he
+His exile?
+
+ORESTES.
+
+           Not one region nor one lot
+His wasted life hath trod.
+
+ELECTRA.
+
+                           He lacketh not
+For bread?
+
+ORESTES.
+
+         Bread hath he; but a man is weak
+In exile.
+
+ELECTRA.
+
+What charge laid he on thee? Speak.
+
+ORESTES.
+
+To learn if thou still live, and how the storm,
+Living, hath struck thee.
+
+ELECTRA.
+
+      That thou seest; this form
+Wasted...
+
+ORESTES.
+
+          Yea, riven with the fire of woe.
+I sigh to look on thee.
+
+ELECTRA.
+
+                        My face; and, lo,
+My temples of their ancient glory shorn.
+
+ORESTES.
+
+Methinks thy brother haunts thee, being forlorn;
+Aye, and perchance thy father, whom they slew...
+
+ELECTRA.
+
+What should be nearer to me than those two?
+
+ORESTES.
+
+And what to him, thy brother, half so dear
+As thou?
+
+ELECTRA.
+         His is a distant love, not near
+At need.
+
+ORESTES.
+
+         But why this dwelling place, this life
+Of loneliness?
+
+ELECTRA (_with sudden bitterness_).
+
+               Stranger, I am a wife....
+O better dead!
+
+ORESTES.
+
+               That seals thy brother's doom!
+What Prince of Argos...?
+
+ELECTRA.
+
+                         Not the man to whom
+My father thought to give me.
+
+ORESTES.
+
+                              Speak; that I
+May tell thy brother all.
+
+ELECTRA.
+
+                          'Tis there, hard by,
+His dwelling, where I live, far from men's eyes.
+
+ORESTES.
+
+Some ditcher's cot, or cowherd's, by its guise!
+
+ELECTRA (_struck with shame for her ingratitude_).
+
+A poor man; but true-hearted, and to me
+God-fearing.
+
+ORESTES.
+
+             How? What fear of God hath he?
+
+ELECTRA.
+
+He hath never held my body to his own.
+
+ORESTES.
+
+Hath he some vow to keep? Or is it done
+To scorn thee?
+
+ELECTRA.
+
+                             Nay; he only scorns to sin
+Against my father's greatness.
+
+ORESTES.
+
+                                But to win
+A princess! Doth his heart not leap for pride?
+
+ELECTRA.
+
+He honoureth not the hand that gave the bride.
+
+ORESTES.
+
+I see. He trembles for Orestes' wrath?
+
+ELECTRA.
+
+Aye, that would move him. But beside, he hath
+A gentle heart.
+
+ORESTES.
+
+                Strange! A good man.... I swear
+He well shall be requited.
+
+ELECTRA.
+
+                            Whensoe'er
+Our wanderer comes again!
+
+ORESTES.
+
+                          Thy mother stays
+Unmoved 'mid all thy wrong?
+
+ELECTRA.
+
+                            A lover weighs
+More than a child in any woman's heart.
+
+ORESTES.
+
+But what end seeks Aegisthus, by such art
+Of shame?
+
+ELECTRA.
+
+          To make mine unborn children low
+And weak, even as my husband.
+
+ORESTES.
+
+                              Lest there grow
+From thee the avenger?
+
+ELECTRA.
+
+                       Such his purpose is:
+For which may I requite him!
+
+ORESTES.
+
+                             And of this
+Thy virgin life--Aegisthus knows it?
+
+ELECTRA.
+
+                                     Nay,
+We speak it not. It cometh not his way.
+
+ORESTES.
+
+These women hear us. Are they friends to thee?
+
+ELECTRA.
+
+Aye, friends and true. They will keep faithfully
+All words of mine and thine.
+
+ORESTES (_trying her_).
+
+                             Thou art well stayed
+With friends. And could Orestes give thee aid
+In aught, if e'er...
+
+ELECTRA.
+
+                     Shame on thee! Seest thou not?
+Is it not time?
+
+ORESTES (_catching her excitement_).
+
+                How time? And if he sought
+To slay, how should he come at his desire?
+
+ELECTRA.
+
+By daring, as they dared who slew his sire!
+
+ORESTES.
+
+Wouldst thou dare with him, if he came, thou too,
+To slay her?
+
+ELECTRA.
+
+             Yes; with the same axe that slew
+My father!
+
+ORESTES.
+
+           'Tis thy message? And thy mood
+Unchanging?
+
+ELECTRA.
+
+            Let me shed my mother's blood,
+And I die happy.
+
+ORESTES.
+
+                 God!... I would that now
+Orestes heard thee here.
+
+ELECTRA.
+
+                         Yet, wottest thou,
+Though here I saw him, I should know him not.
+
+ORESTES.
+
+Surely. Ye both were children, when they wrought
+Your parting.
+
+ELECTRA.
+
+              One alone in all this land
+Would know his face.
+
+ORESTES.
+
+                     The thrall, methinks, whose hand
+Stole him from death--or so the story ran?
+
+ELECTRA.
+
+He taught my father, too, an old old man
+Of other days than these.
+
+ORESTES.
+
+                          Thy father's grave...
+He had due rites and tendance?
+
+ELECTRA.
+
+                               What chance gave,
+My father had, cast out to rot in the sun.
+
+ORESTES.
+
+God, 'tis too much!... To hear of such things done
+Even to a stranger, stings a man.... But speak,
+Tell of thy life, that I may know, and seek
+Thy brother with a tale that must be heard
+Howe'er it sicken. If mine eyes be blurred,
+Remember, 'tis the fool that feels not. Aye,
+Wisdom is full of pity; and thereby
+Men pay for too much wisdom with much pain.
+
+LEADER.
+
+My heart is moved as this man's. I would fain
+Learn all thy tale. Here dwelling on the hills
+Little I know of Argos and its ills.
+
+ELECTRA.
+
+If I must speak--and at love's call, God knows,
+I fear not--I will tell thee all; my woes,
+My father's woes, and--O, since thou hast stirred
+This storm of speech, thou bear him this my word--
+His woes and shame! Tell of this narrow cloak
+In the wind; this grime and reek of toil, that choke
+My breathing; this low roof that bows my head
+After a king's. This raiment ... thread by thread,
+'Tis I must weave it, or go bare--must bring,
+Myself, each jar of water from the spring.
+No holy day for me, no festival,
+No dance upon the green! From all, from all
+I am cut off. No portion hath my life
+'Mid wives of Argos, being no true wife.
+No portion where the maidens throng to praise
+Castor--my Castor, whom in ancient days,
+Ere he passed from us and men worshipped him,
+They named my bridegroom!--
+                           And she, she!... The grim
+Troy spoils gleam round her throne, and by each hand
+Queens of the East, my father's prisoners, stand,
+A cloud of Orient webs and tangling gold.
+And there upon the floor, the blood, the old
+Black blood, yet crawls and cankers, like a rot
+In the stone! And on our father's chariot
+The murderer's foot stands glorying, and the red
+False hand uplifts that ancient staff, that led
+The armies of the world!... Aye, tell him how
+The grave of Agamemnon, even now,
+Lacketh the common honour of the dead;
+A desert barrow, where no tears are shed,
+No tresses hung, no gift, no myrtle spray.
+And when the wine is in him, so men say,
+Our mother's mighty master leaps thereon,
+Spurning the slab, or pelteth stone on stone,
+Flouting the lone dead and the twain that live:
+"Where is thy son Orestes? Doth he give
+Thy tomb good tendance? Or is all forgot?"
+So is he scorned because he cometh not....
+
+O Stranger, on my knees, I charge thee, tell
+This tale, not mine, but of dumb wrongs that swell
+Crowding--and I the trumpet of their pain,
+This tongue, these arms, this bitter burning brain;
+These dead shorn locks, and he for whom they died!
+His father slew Troy's thousands in their pride;
+He hath but one to kill.... O God, but one!
+Is he a man, and Agamemnon's son?
+
+LEADER.
+
+But hold: is this thy husband from the plain,
+His labour ended, hasting home again?
+
+_Enter the_ PEASANT.
+
+PEASANT.
+
+Ha, who be these? Strange men in arms before
+My house! What would they at this lonely door?
+Seek they for me?--Strange gallants should not stay
+A woman's goings.
+
+ELECTRA.
+
+                  Friend and helper!--Nay,
+Think not of any evil. These men be
+Friends of Orestes, charged with words for me!...
+Strangers, forgive his speech.
+
+PEASANT.
+
+                               What word have they
+Of him? At least he lives and sees the day!
+
+ELECTRA.
+
+So fares their tale--and sure I doubt it not!
+
+PEASANT.
+
+And ye two still are living in his thought,
+Thou and his father?
+
+ELECTRA.
+
+                     In his dreams we live.
+An exile hath small power.
+
+PEASANT.
+
+                          And did he give
+Some privy message?
+
+ELECTRA.
+
+                    None: they come as spies
+For news of me.
+
+PEASANT.
+
+                Thine outward news their eyes
+Can see; the rest, methinks, thyself will tell.
+
+ELECTRA.
+
+They have seen all, heard all. I trust them well.
+
+PEASANT.
+
+Why were our doors not open long ago?--
+Be welcome, strangers both, and pass below
+My lintel. In return for your glad words
+Be sure all greeting that mine house affords
+Is yours.--Ye followers, bear in their gear!--
+Gainsay me not; for his sake are ye dear
+That sent you to our house; and though my part
+In life be low, I am no churl at heart.
+
+[_The_ PEASANT _goes to the_ ARMED SERVANTS _at the back, to help them
+with the baggage._
+
+ORESTES (_aside to_ ELECTRA).
+
+Is this the man that shields thy maidenhood
+Unknown, and will not wrong thy father's blood?
+
+ELECTRA.
+
+He is called my husband. 'Tis for him I toil.
+
+ORESTES.
+
+How dark lies honour hid! And what turmoil
+In all things human: sons of mighty men
+Fallen to naught, and from ill seed again
+Good fruit: yea, famine in the rich man's scroll
+Writ deep, and in poor flesh a lordly soul.
+As, lo, this man, not great in Argos, not
+With pride of house uplifted, in a lot
+Of unmarked life hath shown a prince's grace.
+                [_To the_ PEASANT, _who has returned._
+All that is here of Agamemnon's race,
+And all that lacketh yet, for whom we come,
+Do thank thee, and the welcome of thy home
+Accept with gladness.--Ho, men; hasten ye
+Within!--This open-hearted poverty
+Is blither to my sense than feasts of gold.
+
+Lady, thine husband's welcome makes me bold;
+Yet would thou hadst thy brother, before all
+Confessed, to greet us in a prince's hall!
+Which may be, even yet. Apollo spake
+The word; and surely, though small store I make
+Of man's divining, God will fail us not.
+
+[ORESTES _and_ PYLADES _go in, following the_ SERVANTS.
+
+LEADER.
+
+O never was the heart of hope so hot
+Within me. How? So moveless in time past,
+Hath Fortune girded up her loins at last?
+
+ELECTRA.
+
+Now know'st thou not thine own ill furniture,
+To bid these strangers in, to whom for sure
+Our best were hardship, men of gentle breed?
+
+PEASANT.
+
+Nay, if the men be gentle, as indeed
+I deem them, they will take good cheer or ill
+With even kindness.
+
+ELECTRA.
+
+                    'Twas ill done; but still--
+Go, since so poor thou art, to that old friend
+Who reared my father. At the realm's last end
+He dwells, where Tanaos river foams between
+Argos and Sparta. Long time hath he been
+An exile 'mid his flocks. Tell him what thing
+Hath chanced on me, and bid him haste and bring
+Meat for the strangers' tending.--Glad, I trow,
+That old man's heart will be, and many a vow
+Will lift to God, to learn the child he stole
+From death, yet breathes.--I will not ask a dole
+From home; how should my mother help me? Nay,
+I pity him that seeks that door, to say
+Orestes liveth!
+
+PEASANT.
+
+                Wilt thou have it so?
+I will take word to the old man. But go
+Quickly within, and whatso there thou find
+Set out for them. A woman, if her mind
+So turn, can light on many a pleasant thing
+To fill her board. And surely plenishing
+We have for this one day.--'Tis in such shifts
+As these, I care for riches, to make gifts
+To friends, or lead a sick man back to health
+With ease and plenty. Else small aid is wealth
+For daily gladness; once a man be done
+With hunger, rich and poor are all as one.
+
+[_The_ PEASANT _goes off to the left_; ELECTRA _goes into the house._
+
+       *       *       *       *       *
+
+CHORUS.
+
+O for the ships of Troy, the beat                [_Strophe_ 1.
+  Of oars that shimmered
+Innumerable, and dancing feet
+  Of Nereids glimmered;
+And dolphins, drunken with the lyre,
+Across the dark blue prows, like fire,
+  Did bound and quiver,
+To cleave the way for Thetis' son,
+Fleet-in-the-wind Achilles, on
+To war, to war, till Troy be won
+  Beside the reedy river.
+
+Up from Euboea's caverns came                [_Antistrophe_ 1.
+  The Nereids, bearing
+Gold armour from the Lords of Flame,
+  Wrought for his wearing:
+Long sought those daughters of the deep,
+Up Pelion's glen, up Ossa's steep
+  Forest enchanted,
+Where Peleus reared alone, afar,
+His lost sea-maiden's child, the star
+Of Hellas, and swift help of war
+  When weary armies panted.
+
+There came a man from Troy, and told             [_Strophe_ 2.
+  Here in the haven,
+How, orb on orb, to strike with cold
+The Trojan, o'er that targe of gold,
+  Dread shapes were graven.
+All round the level rim thereof
+Perseus, on wingèd feet, above
+  The long seas hied him;
+The Gorgon's wild and bleeding hair
+He lifted; and a herald fair,
+He of the wilds, whom Maia bare,
+  God's Hermes, flew beside him.
+
+                                             [_Antistrophe_ 2.
+But midmost, where the boss rose higher,
+  A sun stood blazing,
+And wingèd steeds, and stars in choir,
+Hyad and Pleiad, fire on fire,
+  For Hector's dazing:
+Across the golden helm, each way,
+Two taloned Sphinxes held their prey,
+  Song-drawn to slaughter:
+And round the breastplate ramping came
+A mingled breed of lion and flame,
+Hot-eyed to tear that steed of fame
+  That found Pirênê's water.
+
+The red red sword with steeds four-yoked             [_Epode_.
+  Black-maned, was graven,
+That laboured, and the hot dust smoked
+  Cloudwise to heaven.
+Thou Tyndarid woman! Fair and tall
+Those warriors were, and o'er them all
+  One king great-hearted,
+Whom thou and thy false love did slay:
+Therefore the tribes of Heaven one day
+For these thy dead shall send on thee
+An iron death: yea, men shall see
+The white throat drawn, and blood's red spray,
+  And lips in terror parted.
+
+[_As they cease, there enters from the left a very old man, bearing a
+lamb, a wineskin, and a wallet_.
+
+OLD MAN.
+
+Where is my little Princess? Ah, not now;
+But still my queen, who tended long ago
+The lad that was her father.... How steep-set
+These last steps to her porch! But faint not yet:
+Onward, ye failing knees and back with pain
+Bowed, till we look on that dear face again.
+                            [_Enter_ ELECTRA.
+Ah, daughter, is it thou?--Lo, here I am,
+With gifts from all my store; this suckling lamb
+Fresh from the ewe, green crowns for joyfulness,
+And creamy things new-curdled from the press.
+And this long-storèd juice of vintages
+Forgotten, cased in fragrance: scant it is,
+But passing sweet to mingle nectar-wise
+With feebler wine.--Go, bear them in; mine eyes...
+Where is my cloak?--They are all blurred with tears.
+
+ELECTRA.
+
+What ails thine eyes, old friend? After these years
+Doth my low plight still stir thy memories?
+Or think'st thou of Orestes, where he lies
+In exile, and my father? Aye, long love
+Thou gavest him, and seest the fruit thereof
+Wasted, for thee and all who love thee!
+
+OLD MAN.
+
+                                        All
+Wasted! And yet 'tis that lost hope withal
+I cannot brook. But now I turned aside
+To see my master's grave. All, far and wide,
+Was silence; so I bent these knees of mine
+And wept and poured drink-offerings from the wine
+I bear the strangers, and about the stone
+Laid myrtle sprays. And, child, I saw thereon
+Just at the censer slain, a fleeced ewe,
+Deep black, in sacrifice: the blood was new
+About it: and a tress of bright brown hair
+Shorn as in mourning, close. Long stood I there
+And wondered, of all men what man had gone
+In mourning to that grave.--My child, 'tis none
+In Argos. Did there come ... Nay, mark me now...
+Thy brother in the dark, last night, to bow
+His head before that unadorèd tomb?
+  O come, and mark the colour of it. Come
+And lay thine own hair by that mourner's tress!
+A hundred little things make likenesses
+In brethren born, and show the father's blood.
+
+ELECTRA (_trying to mask her excitement and resist the contagion of his_).
+
+Old heart, old heart, is this a wise man's mood?...
+O, not in darkness, not in fear of men,
+Shall Argos find him, when he comes again,
+Mine own undaunted ... Nay, and if it were,
+What likeness could there be? My brother's hair
+Is as a prince's and a rover's, strong
+With sunlight and with strife: not like the long
+Locks that a woman combs.... And many a head
+Hath this same semblance, wing for wing, tho' bred
+Of blood not ours.... 'Tis hopeless. Peace, old man.
+
+OLD MAN.
+
+The footprints! Set thy foot by his, and scan
+The track of frame and muscles, how they fit!
+
+ELECTRA.
+
+That ground will take no footprint! All of it
+Is bitter stone.... It hath?... And who hath said
+There should be likeness in a brother's tread
+And sister's? His is stronger every way.
+
+OLD MAN.
+
+But hast thou nothing...? If he came this day
+And sought to show thee, is there no one sign
+Whereby to know him?... Stay; the robe was thine,
+Work of thy loom, wherein I wrapt him o'er
+That night and stole him through the murderers' door.
+
+ELECTRA.
+
+Thou knowest, when Orestes was cast out
+I was a child.... If I did weave some clout
+Of raiment, would he keep the vesture now
+He wore in childhood? Should my weaving grow
+As his limbs grew?... 'Tis lost long since. No more!
+O, either 'twas some stranger passed, and shore
+His locks for very ruth before that tomb:
+Or, if he found perchance, to seek his home,
+Some spy...
+
+OLD MAN.
+
+The strangers! Where are they? I fain
+Would see them, aye, and bid them answer plain...
+
+ELECTRA.
+
+Here at the door! How swift upon the thought!
+
+_Enter_ ORESTES _and_ PYLADES.
+
+OLD MAN.
+
+High-born: albeit for that I trust them not.
+The highest oft are false.... Howe'er it be,
+
+[_Approaching them_.
+
+I bid the strangers hail!
+
+ORESTES.
+
+                          All hail to thee,
+Greybeard!--Prithee, what man of all the King
+Trusted of old, is now this broken thing?
+
+ELECTRA.
+
+'Tis he that trained my father's boyhood.
+
+ORESTES.
+
+                                          How?
+And stole from death thy brother? Sayest thou?
+
+ELECTRA.
+
+This man was his deliverer, if it be
+Deliverance.
+
+ORESTES.
+
+             How his old eye pierceth me,
+As one that testeth silver and alloy!
+Sees he some likeness here?
+
+ELECTRA.
+
+                            Perchance 'tis joy,
+To see Orestes' comrade, that he feels.
+
+ORESTES.
+
+None dearer.--But what ails the man? He reels
+Dizzily back.
+
+ELECTRA.
+
+              I marvel. I can say
+No more.
+
+OLD MAN (_in a broken voice_).
+
+         Electra, mistress, daughter, pray!
+Pray unto God!
+
+ELECTRA.
+
+               Of all the things I crave,
+The thousand things, or all that others have,
+What should I pray for?
+
+OLD MAN.
+
+                        Pray thine arms may hold
+At last this treasure-dream of more than gold
+God shows us!
+
+ELECTRA.
+
+              God, I pray thee!... Wouldst thou more?
+
+OLD MAN.
+
+Gaze now upon this man, and bow before
+Thy dearest upon earth!
+
+ELECTRA.
+
+                        I gaze on thee!
+O, hath time made thee mad?
+
+OLD MAN.
+
+                            Mad, that I see
+Thy brother?
+
+ELECTRA.
+
+             My ... I know not what thou say'st:
+I looked not for it...
+
+OLD MAN.
+
+                       I tell thee, here confessed
+Standeth Orestes, Agamemnon's son!
+
+ELECTRA.
+
+A sign before I trust thee! O, but one!
+How dost thou know...?
+
+OLD MAN.
+
+                       There, by his brow, I see
+The scar he made, that day he ran with thee
+Chasing thy fawn, and fell.
+
+ELECTRA (_in a dull voice_).
+
+                            A scar? 'Tis so.
+I see a scar.
+
+OLD MAN.
+
+              And fearest still to throw
+Thine arms round him thou lovest?
+
+ELECTRA.
+
+                                  O, no more!
+Thy sign hath conquered me.... (_throwing herself into_ ORESTES' _arms_).
+At last, at last!
+Thy face like light! And do I hold thee fast,
+Unhoped for?
+
+ORESTES.
+
+             Yea, at last! And I hold thee.
+
+ELECTRA.
+
+I never knew...
+
+ORESTES.
+
+                I dreamed not.
+
+ELECTRA.
+
+                               Is it he,
+Orestes?
+
+ORESTES.
+
+         Thy defender, yea, alone
+To fight the world! Lo, this day have I thrown
+A net, which once unbroken from the sea
+Drawn home, shall ... O, and it must surely be!
+Else men shall know there is no God, no light
+In Heaven, if wrong to the end shall conquer right.
+
+CHORUS.
+
+  Comest thou, comest thou now,
+  Chained by the years and slow,
+    O Day long sought?
+  A light on the mountains cold
+  Is lit, yea, a fire burneth,
+  'Tis the light of one that turneth
+  From roamings manifold,
+  Back out of exile old
+    To the house that knew him not.
+
+  Some spirit hath turned our way,
+    Victory visible,
+  Walking at thy right hand,
+  Belovèd; O lift this day
+  Thine arms, thy voice, as a spell;
+  And pray for thy brother, pray,
+  Threading the perilous land,
+    That all be well!
+
+ORESTES.
+
+Enough; this dear delight is mine at last
+Of thine embracing; and the hour comes fast
+When we shall stand again as now we stand,
+And stint not.--Stay, Old Man: thou, being at hand
+At the edge of time, advise me, by what way
+Best to requite my father's murderers. Say,
+Have I in Argos any still to trust;
+Or is the love, once borne me, trod in dust,
+Even as my fortunes are? Whom shall I seek?
+By day or night? And whither turn, to wreak
+My will on them that hate us? Say.
+
+OLD MAN.
+
+                                   My son,
+In thine adversity, there is not one
+Will call thee friend. Nay, that were treasure-trove,
+A friend to share, not faltering from love,
+Fair days and foul the same. Thy name is gone
+Forth to all Argos, as a thing o'erthrown
+And dead. Thou hast not left one spark to glow
+With hope in one friend's heart! Hear all, and know:
+Thou hast God's fortune and thine own right hand,
+Naught else, to conquer back thy fatherland.
+
+ORESTES.
+
+The deed, the deed! What must we do?
+
+OLD MAN.
+
+                                     Strike down
+Aegisthus ... and thy mother.
+
+ORESTES.
+
+                              'Tis the crown
+My race is run for. But how find him?
+
+OLD MAN.
+
+                                      Not
+Within the city walls, however hot
+Thy spirit.
+
+ORESTES.
+
+            Ha! With watchers doth he go
+Begirt, and mailèd pikemen?
+
+OLD MAN.
+
+                            Even so:
+He lives in fear of thee, and night nor day
+Hath slumber.
+
+ORESTES.
+
+              That way blocked!--'Tis thine to say
+What next remains.
+
+OLD MAN.
+
+                   I will; and thou give ear.
+A thought has found me!
+
+ORESTES.
+
+                        All good thoughts be near,
+For thee to speak and me to understand!
+
+OLD MAN.
+
+But now I saw Aegisthus, close at hand
+As here I journeyed.
+
+ORESTES.
+
+                     That good word shall trace
+My path for me! Thou saw'st him? In what place?
+
+OLD MAN.
+
+Out on the pastures where his horses stray.
+
+ORESTES.
+
+What did he there so far?--A gleam of day
+Crosseth our darkness.
+
+OLD MAN.
+
+                       'Twas a feast, methought,
+Of worship to the wild-wood nymphs he wrought.
+
+ORESTES.
+
+The watchers of men's birth? Is there a son
+New born to him, or doth he pray for one
+That cometh? [_Movement of_ ELECTRA.
+
+OLD MAN.
+
+             More I know not; he had there
+A wreathed ox, as for some weighty prayer.
+
+ORESTES.
+
+What force was with him? Not his serfs alone?
+
+OLD MAN.
+
+No Argive lord was there; none but his own
+Household.
+
+ORESTES.
+
+           Not any that aught know my face,
+Or guess?
+
+OLD MAN.
+
+          Thralls, thralls; who ne'er have seen thy face.
+
+ORESTES.
+
+Once I prevail, the thralls will welcome me!
+
+OLD MAN.
+
+The slaves' way, that; and no ill thing for thee!
+
+ORESTES.
+
+How can I once come near him?
+
+OLD MAN.
+
+                              Walk thy ways
+Hard by, where he may see thee, ere he slays
+His sacrifice.
+
+ORESTES.
+
+               How? Is the road so nigh?
+
+OLD MAN.
+
+He cannot choose but see thee, passing by,
+And bid thee stay to share the beast they kill.
+
+ORESTES.
+
+A bitter fellow-feaster, if God will!
+
+OLD MAN.
+
+And then ... then swift be heart and brain, to see
+God's chances!
+
+ORESTES.
+
+               Aye. Well hast thou counselled me.
+But ... where is she?
+
+OLD MAN.
+
+                      In Argos now, I guess;
+But goes to join her husband, ere the press
+Of the feast.
+
+ORESTES.
+
+              Why goeth not my mother straight
+Forth at her husband's side?
+
+OLD MAN.
+
+                             She fain will wait
+Until the gathered country-folk be gone.
+
+ORESTES.
+
+Enough! She knows what eyes are turned upon
+Her passings in the land!
+
+OLD MAN.
+
+                          Aye, all men hate
+The unholy woman.
+
+ORESTES.
+
+                  How then can I set
+My snare for wife and husband in one breath?
+
+ELECTRA (_coming forward_).
+
+Hold! It is I must work our mother's death.
+
+ORESTES.
+
+If that be done, I think the other deed
+Fortune will guide.
+
+ELECTRA.
+
+                    This man must help our need,
+One friend alone for both.
+
+OLD MAN.
+
+                           He will, he will!
+Speak on. What cunning hast thou found to fill
+Thy purpose?
+
+ELECTRA.
+
+             Get thee forth, Old Man, and quick
+Tell Clytemnestra ... tell her I lie sick,
+New-mothered of a man-child.
+
+OLD MAN.
+
+                             Thou hast borne
+A son! But when?
+
+ELECTRA.
+
+                 Let this be the tenth morn.
+Till then a mother stays in sanctity,
+Unseen.
+
+OLD MAN.
+
+        And if I tell her, where shall be
+The death in this?
+
+ELECTRA.
+
+                   That word let her but hear,
+Straight she will seek me out!
+
+OLD MAN.
+
+                               The queen! What care
+Hath she for thee, or pain of thine?
+
+ELECTRA.
+
+                                     She will;
+And weep my babe's low station!
+
+OLD MAN.
+
+                                Thou hast skill
+To know her, child; say on.
+
+ELECTRA.
+
+                            But bring her here,
+Here to my hand; the rest will come.
+
+OLD MAN.
+
+                                     I swear,
+Here at the gate she shall stand palpable!
+
+ELECTRA.
+
+The gate: the gate that leads to me and Hell.
+
+OLD MAN.
+
+Let me but see it, and I die content.
+
+ELECTRA.
+
+First, then, my brother: see his steps be bent...
+
+OLD MAN.
+
+Straight yonder, where Aegisthus makes his prayer!
+
+ELECTRA.
+
+Then seek my mother's presence, and declare
+My news.
+
+OLD MAN.
+
+         Thy very words, child, as tho' spoke
+From thine own lips!
+
+ELECTRA.
+
+                     Brother, thine hour is struck.
+Thou standest in the van of war this day.
+
+ORESTES (_rousing himself_).
+
+Aye, I am ready.... I will go my way,
+If but some man will guide me.
+
+OLD MAN.
+
+                               Here am I,
+To speed thee to the end, right thankfully.
+
+ORESTES (_turning as he goes and raising his hands to heaven_).
+
+Zeus of my sires, Zeus of the lost battle,
+
+ELECTRA.
+
+Have pity; have pity; we have earned it well!
+
+OLD MAN.
+
+  Pity these twain, of thine own body sprung!
+
+ELECTRA.
+
+O Queen o'er Argive altars, Hera high,
+
+ORESTES.
+
+Grant us thy strength, if for the right we cry.
+
+OLD MAN.
+
+  Strength to these twain, to right their father's wrong!
+
+ELECTRA.
+
+O Earth, deep Earth, to whom I yearn in vain,
+
+ORESTES.
+
+And deeper thou, O father darkly slain,
+
+OLD MAN.
+
+  Thy children call, who love thee: hearken thou!
+
+ORESTES.
+
+Girt with thine own dead armies, wake, O wake!
+
+ELECTRA.
+
+With all that died at Ilion for thy sake ...
+
+OLD MAN.
+
+  And hate earth's dark defilers; help us now!
+
+ELECTRA.
+
+Dost hear us yet, O thou in deadly wrong,
+Wronged by my mother?
+
+OLD MAN.
+
+                      Child, we stay too long.
+He hears; be sure he hears!
+
+ELECTRA.
+
+                            And while he hears,
+I speak this word for omen in his ears:
+"Aegisthus dies, Aegisthus dies."... Ah me,
+My brother, should it strike not him, but thee,
+This wrestling with dark death, behold, I too
+Am dead that hour. Think of me as one true,
+Not one that lives. I have a sword made keen
+For this, and shall strike deep.
+                                 I will go in
+And make all ready. If there come from thee
+Good tidings, all my house for ecstasy
+Shall cry; and if we hear that thou art dead,
+Then comes the other end!--Lo, I have said.
+
+ORESTES.
+
+I know all, all.
+
+ELECTRA.
+
+                 Then be a man to-day!
+
+     [ORESTES _and the_ OLD MAN _depart_.
+
+O Women, let your voices from this fray
+Flash me a fiery signal, where I sit,
+The sword across my knees, expecting it.
+For never, though they kill me, shall they touch
+My living limbs!--I know my way thus much.
+
+      [_She goes into the house_.
+
+       *       *       *       *       *
+
+CHORUS.
+
+    When white-haired folk are met                 [_Strophe_.
+      In Argos about the fold,
+    A story lingereth yet,
+      A voice of the mountains old,
+      That tells of the Lamb of Gold:
+    A lamb from a mother mild,
+      But the gold of it curled and beat;
+    And Pan, who holdeth the keys of the wild,
+      Bore it to Atreus' feet:
+    His wild reed pipes he blew,
+      And the reeds were filled with peace,
+    And a joy of singing before him flew,
+      Over the fiery fleece:
+    And up on the basèd rock,
+      As a herald cries, cried he:
+    "Gather ye, gather, O Argive folk,
+      The King's Sign to see,
+    The sign of the blest of God,
+      For he that hath this, hath all!"
+    Therefore the dance of praise they trod
+      In the Atreïd brethren's hall.
+
+    They opened before men's eyes              [_Antistrophe_.
+      That which was hid before,
+    The chambers of sacrifice,
+      The dark of the golden door,
+      And fires on the altar floor.
+    And bright was every street,
+      And the voice of the Muses' tree.
+    The carven lotus, was lifted sweet;
+      When afar and suddenly,
+    Strange songs, and a voice that grew:
+      "Come to your king, ye folk!
+    Mine, mine, is the Golden Ewe!"
+      'Twas dark Thyestes spoke.
+    For, lo, when the world was still,
+      With his brother's bride he lay,
+    And won her to work his will,
+      And they stole the Lamb away!
+    Then forth to the folk strode he,
+      And called them about his fold,
+    And showed that Sign of the King to be,
+      The fleece and the horns of gold.
+
+    Then, then, the world was changed;           [_Strophe_ 2.
+    And the Father, where they ranged,
+  Shook the golden stars and glowing,
+    And the great Sun stood deranged
+  In the glory of his going.
+
+    Lo, from that day forth, the East
+    Bears the sunrise on his breast,
+  And the flaming Day in heaven
+    Down the dim ways of the west
+  Driveth, to be lost at even.
+
+    The wet clouds to Northward beat;
+    And Lord Ammon's desert seat
+  Crieth from the South, unslaken,
+    For the dews that once were sweet,
+  For the rain that God hath taken.
+
+    'Tis a children's tale, that old         [_Antistrophe_ 2.
+    Shepherds on far hills have told;
+  And we reck not of their telling,
+    Deem not that the Sun of gold
+  Ever turned his fiery dwelling,
+
+    Or beat backward in the sky,
+    For the wrongs of man, the cry
+  Of his ailing tribes assembled,
+    To do justly, ere they die!
+  Once, men told the tale, and trembled;
+
+    Fearing God, O Queen: whom thou
+    Hast forgotten, till thy brow
+  With old blood is dark and daunted.
+    And thy brethren, even now,
+  Walk among the stars, enchanted.
+
+LEADER.
+
+Ha, friends, was that a voice? Or some dream sound
+Of voices shaketh me, as underground
+God's thunder shuddering? Hark, again, and clear!
+It swells upon the wind.--Come forth and hear!
+Mistress, Electra!
+
+ELECTRA, _a bare sword in her hand, comes from the house._
+
+ELECTRA.
+
+                   Friends! Some news is brought?
+How hath the battle ended?
+
+LEADER.
+
+                           I know naught.
+There seemed a cry as of men massacred!
+
+ELECTRA.
+
+I heard it too. Far off, but still I heard.
+
+LEADER.
+
+A distant floating voice ... Ah, plainer now!
+
+ELECTRA.
+
+Of Argive anguish!--Brother, is it thou?
+
+LEADER.
+
+I know not. Many confused voices cry...
+
+ELECTRA.
+
+Death, then for me! That answer bids me die.
+
+LEADER.
+
+Nay, wait! We know not yet thy fortune. Wait!
+
+ELECTRA.
+
+No messenger from him!--Too late, too late!
+
+LEADER.
+
+The message yet will come. 'Tis not a thing
+So light of compass, to strike down a king.
+
+  _Enter a_ MESSENGER, _running_.
+
+MESSENGER.
+
+Victory, Maids of Argos, Victory!
+Orestes ... all that love him, list to me!...
+Hath conquered! Agamemnon's murderer lies
+Dead! O give thanks to God with happy cries!
+
+ELECTRA.
+
+Who art thou? I mistrust thee.... 'Tis a plot!
+
+MESSENGER.
+
+Thy brother's man. Look well. Dost know me not?
+
+ELECTRA.
+
+Friend, friend; my terror made me not to see
+Thy visage. Now I know and welcome thee.
+How sayst thou? He is dead, verily dead,
+My father's murderer...?
+
+MESSENGER.
+
+                         Shall it be said
+Once more? I know again and yet again
+Thy heart would hear. Aegisthus lieth slain!
+
+ELECTRA.
+
+Ye Gods! And thou, O Right, that seest all,
+Art come at last?... But speak; how did he fall?
+How swooped the wing of death?... I crave to hear.
+
+MESSENGER.
+
+Forth of this hut we set our faces clear
+To the world, and struck the open chariot road;
+Then on toward the pasture lands, where stood
+The great Lord of Mycenae. In a set
+Garden beside a channelled rivulet,
+Culling a myrtle garland for his brow,
+He walked: but hailed us as we passed: "How now,
+Strangers! Who are ye? Of what city sprung,
+And whither bound?" "Thessalians," answered young
+Orestes: "to Alpheüs journeying,
+With gifts to Olympian Zeus." Whereat the king:
+"This while, beseech you, tarry, and make full
+The feast upon my hearth. We slay a bull
+Here to the Nymphs. Set forth at break of day
+To-morrow, and 'twill cost you no delay.
+But come"--and so he gave his hand, and led
+The two men in--"I must not be gainsaid;
+Come to the house. Ho, there; set close at hand
+Vats of pure water, that the guests may stand
+At the altar's verge, where falls the holy spray."
+Then quickly spake Orestes: "By the way
+We cleansed us in a torrent stream. We need
+No purifying here. But if indeed
+Strangers may share thy worship, here are we
+Ready, O King, and swift to follow thee."
+
+So spoke they in the midst. And every thrall
+Laid down the spears they served the King withal,
+And hied him to the work. Some bore amain
+The death-vat, some the corbs of hallowed grain;
+Or kindled fire, and round the fire and in
+Set cauldrons foaming; and a festal din
+Filled all the place. Then took thy mother's lord
+The ritual grains, and o'er the altar poured
+Its due, and prayed: "O Nymphs of Rock and Mere,
+With many a sacrifice for many a year,
+May I and she who waits at home for me,
+My Tyndarid Queen, adore you. May it be
+Peace with us always, even as now; and all
+Ill to mine enemies"--meaning withal
+Thee and Orestes. Then my master prayed
+Against that prayer, but silently, and said
+No word, to win once more his fatherland.
+Then in the corb Aegisthus set his hand,
+Took the straight blade, cut from the proud bull's head
+A lock, and laid it where the fire was red;
+Then, while the young men held the bull on high,
+Slew it with one clean gash; and suddenly
+Turned on thy brother: "Stranger, every true
+Thessalian, so the story goes, can hew
+A bull's limbs clean, and tame a mountain steed.
+Take up the steel, and show us if indeed
+Rumour speak true," Right swift Orestes took
+The Dorian blade, back from his shoulders shook
+His broochèd mantle, called on Pylades
+To aid him, and waved back the thralls. With ease
+Heelwise he held the bull, and with one glide
+Bared the white limb; then stripped the mighty hide
+From off him, swifter than a runner runs
+His furlongs, and laid clean the flank. At once
+Aegisthus stooped, and lifted up with care
+The ominous parts, and gazed. No lobe was there;
+But lo, strange caves of gall, and, darkly raised,
+The portal vein boded to him that gazed
+Fell visitations. Dark as night his brow
+Clouded. Then spake Orestes: "Why art thou
+Cast down so sudden?" "Guest," he cried, "there be
+Treasons from whence I know not, seeking me.
+Of all my foes, 'tis Agamemnon's son;
+His hate is on my house, like war." "Have done!"
+Orestes cried: "thou fear'st an exile's plot,
+Lord of a city? Make thy cold heart hot
+With meat.--Ho, fling me a Thessalian steel!
+This Dorian is too light. I will unseal
+The breast of him." He took the heavier blade,
+And clave the bone. And there Aegisthus stayed,
+The omens in his hand, dividing slow
+This sign from that; till, while his head bent low,
+Up with a leap thy brother flashed the sword,
+Then down upon his neck, and cleft the cord
+Of brain and spine. Shuddering the body stood
+One instant in an agony of blood,
+And gasped and fell. The henchmen saw, and straight
+Flew to their spears, a host of them to set
+Against those twain. But there the twain did stand
+Unfaltering, each his iron in his hand,
+Edge fronting edge. Till "Hold," Orestes calls:
+"I come not as in wrath against these walls
+And mine own people. One man righteously
+I have slain, who slew my father. It is I,
+The wronged Orestes! Hold, and smite me not,
+Old housefolk of my father!" When they caught
+That name, their lances fell. And one old man,
+An ancient in the house, drew nigh to scan
+His face, and knew him. Then with one accord
+They crowned thy brother's temples, and outpoured
+joy and loud songs. And hither now he fares
+To show the head, no Gorgon, that he bears,
+But that Aegisthus whom thou hatest! Yea,
+Blood against blood, his debt is paid this day.
+
+[_He goes off to meet the others_--ELECTRA _stands as though stupefied_.
+
+CHORUS.
+
+  Now, now thou shalt dance in our dances,
+    Beloved, as a fawn in the night!
+  The wind is astir for the glances
+    Of thy feet; thou art robed with delight.
+
+  He hath conquered, he cometh to free us
+    With garlands new-won,
+  More high than the crowns of Alpheüs,
+    Thine own father's son:
+  Cry, cry, for the day that is won!
+
+
+ELECTRA.
+
+O Light of the Sun, O chariot wheels of flame,
+O Earth and Night, dead Night without a name
+That held me! Now mine eyes are raised to see,
+And all the doorways of my soul flung free.
+Aegisthus dead! My father's murderer dead!
+  What have I still of wreathing for the head
+Stored in my chambers? Let it come forth now
+To bind my brother's and my conqueror's brow.
+
+[_Some garlands are brought out from the house to_ ELECTRA.
+
+CHORUS.
+
+Go, gather thy garlands, and lay them
+  As a crown on his brow, many-tressed,
+But our feet shall refrain not nor stay them:
+  'Tis the joy that the Muses have blest.
+For our king is returned as from prison,
+  The old king, to be master again,
+Our belovèd in justice re-risen:
+    With guile he hath slain...
+  But cry, cry in joyance again!
+
+[_There enter from the left_ ORESTES _and_ PYLADES, _followed by some
+thralls_.
+
+ELECTRA.
+
+O conqueror, come! The king that trampled Troy
+Knoweth his son Orestes. Come in joy,
+Brother, and take to bind thy rippling hair
+My crowns!.... O what are crowns, that runners wear
+For some vain race? But thou in battle true
+Hast felled our foe Aegisthus, him that slew
+By craft thy sire and mine. [_She crowns_ ORESTES.
+                            And thou no less,
+O friend at need, O reared in righteousness,
+Take, Pylades, this chaplet from my hand.
+'Twas half thy battle. And may ye two stand
+Thus alway, victory-crowned, before my face!    [_She crowns_ PYLADES.
+
+ORESTES.
+
+Electra, first as workers of this grace
+Praise thou the Gods, and after, if thou will,
+Praise also me, as chosen to fulfil
+God's work and Fate's.--Aye, 'tis no more a dream;
+In very deed I come from slaying him.
+Thou hast the knowledge clear, but lo, I bring
+More also. See himself, dead!
+    [_Attendants bring in the body of_ AEGISTHUS _on a bier_.
+                              Wouldst thou fling
+This lord on the rotting earth for beasts to tear?
+Or up, where all the vultures of the air
+May glut them, pierce and nail him for a sign
+Far off? Work all thy will. Now he is thine.
+
+ELECTRA.
+
+It shames me; yet, God knows, I hunger sore--
+
+ORESTES.
+
+What wouldst thou? Speak; the old fear nevermore
+Need touch thee.
+
+ELECTRA.
+
+    To let loose upon the dead
+My hate! Perchance to rouse on mine own head
+The sleeping hate of the world?
+
+ORESTES.
+
+    No man that lives
+Shall scathe thee by one word.
+
+ELECTRA.
+
+    Our city gives
+Quick blame; and little love have men for me.
+
+ORESTES.
+
+If aught thou hast unsaid, sister, be free
+And speak. Between this man and us no bar
+Cometh nor stint, but the utter rage of war.
+    [_She goes and stands over the body. A moment's silence_.
+
+ELECTRA.
+
+  Ah me, what have I? What first flood of hate
+To loose upon thee? What last curse to sate
+My pain, or river of wild words to flow
+Bank-high between?... Nothing?... And yet I know
+There hath not passed one sun, but through the long
+Cold dawns, over and over, like a song,
+I have said them--words held back, O, some day yet
+To flash into thy face, would but the fret
+Of ancient fear fall loose and let me free.
+And free I am, now; and can pay to thee
+At last the weary debt.
+                        Oh, thou didst kill
+My soul within. Who wrought thee any ill,
+That thou shouldst make me fatherless? Aye, me
+And this my brother, loveless, solitary?
+'Twas thou, didst bend my mother to her shame:
+Thy weak hand murdered him who led to fame
+The hosts of Hellas--thou, that never crossed
+O'erseas to Troy!... God help thee, wast thou lost
+In blindness, long ago, dreaming, some-wise,
+She would be true with thee, whose sin and lies
+Thyself had tasted in my father's place?
+And then, that thou wert happy, when thy days
+Were all one pain? Thou knewest ceaselessly
+Her kiss a thing unclean, and she knew thee
+A lord so little true, so dearly won!
+So lost ye both, being in falseness one,
+What fortune else had granted; she thy curse,
+Who marred thee as she loved thee, and thou hers...
+And on thy ways thou heardst men whispering,
+"Lo, the Queen's husband yonder"--not "the King."
+  And then the lie of lies that dimmed thy brow,
+Vaunting that by thy gold, thy chattels, Thou
+Wert Something; which themselves are nothingness.
+Shadows, to clasp a moment ere they cease.
+The thing thou art, and not the things thou hast,
+Abideth, yea, and bindeth to the last
+Thy burden on thee: while all else, ill-won
+And sin-companioned, like a flower o'erblown,
+Flies on the wind away.
+                         Or didst them find
+In women ... Women?... Nay, peace, peace! The blind
+Could read thee. Cruel wast thou in thine hour,
+Lord of a great king's house, and like a tower
+Firm in thy beauty.    [_Starting back with a look of loathing_.
+                    Ah, that girl-like face!
+God grant, not that, not that, but some plain grace
+Of manhood to the man who brings me love:
+A father of straight children, that shall move
+Swift on the wings of War.
+
+    So, get thee gone!
+Naught knowing how the great years, rolling on,
+Have laid thee bare, and thy long debt full paid.
+  O vaunt not, if one step be proudly made
+In evil, that all Justice is o'ercast:
+Vaunt not, ye men of sin, ere at the last
+The thin-drawn marge before you glimmereth
+Close, and the goal that wheels 'twixt life and death.
+
+LEADER.
+
+Justice is mighty. Passing dark hath been
+His sin: and dark the payment of his sin.
+
+ELECTRA (_with a weary sigh, turning from the body_).
+
+Ah me! Go some of you, bear him from sight,
+That when my mother come, her eyes may light
+On nothing, nothing, till she know the sword....
+    [_The body is borne into the hut_. PYLADES _goes with it_.
+
+ORESTES (_looking along the road_).
+
+Stay, 'tis a new thing! We have still a word
+To speak...
+
+ELECTRA.
+
+            What? Not a rescue from the town
+Thou seëst?
+
+ORESTES.
+
+            'Tis my mother comes: my own
+Mother, that bare me. [_He takes off his crown_.
+
+ELECTRA (_springing, as it were, to life again, and moving where she can
+see the road_).
+
+                      Straight into the snare!
+Aye, there she cometh,--Welcome in thy rare
+Chariot! All welcome in thy brave array!
+
+ORESTES.
+
+What would we with our mother? Didst thou say
+Kill her?
+
+ELECTRA (_turning on him_).
+
+          What? Is it pity? Dost thou fear
+To see thy mother's shape?
+
+ORESTES.
+
+                          'Twas she that bare
+My body into life. She gave me suck.
+How can I strike her?
+
+ELECTRA.
+
+                  Strike her as she struck
+Our father!
+
+ORESTES (_to himself, brooding_).
+
+            Phoebus, God, was all thy mind
+Turned unto darkness?
+
+ELECTRA.
+
+                      If thy God be blind,
+Shalt thou have light?
+
+ORESTES (_as before_).
+
+                       Thou, thou, didst bid me kill
+My mother: which is sin.
+
+ELECTRA.
+
+                         How brings it ill
+To thee, to raise our father from the dust?
+
+ORESTES.
+
+I was a clean man once. Shall I be thrust
+From men's sight, blotted with her blood?
+
+ELECTRA.
+
+                                          Thy blot
+Is black as death if him thou succour not!
+
+ORESTES.
+
+Who shall do judgment on me, when she dies?
+
+ELECTRA.
+
+Who shall do judgment, if thy father lies.
+Forgotten?
+
+ORESTES (_turning suddenly to_ ELECTRA).
+
+           Stay! How if some fiend of Hell,
+Hid in God's likeness, spake that oracle?
+
+ELECTRA.
+
+In God's own house? I trow not.
+
+ORESTES.
+
+                                And I trow
+It was an evil charge! [_He moves away from her._
+
+ELECTRA (_almost despairing_).
+
+                          To fail me now!
+To fail me now! A coward!--O brother, no!
+
+ORESTES.
+
+What shall it be, then? The same stealthy blow ...
+
+ELECTRA.
+
+That slew our father! Courage! thou hast slain
+Aegisthus.
+
+ORESTES.
+
+           Aye. So be it.--I have ta'en
+A path of many terrors: and shall do
+Deeds horrible. 'Tis God will have it so....
+Is this the joy of battle, or wild woe?  [_He goes into the house._
+
+LEADER.
+
+O Queen o'er Argos thronèd high,
+  O Woman, sister of the twain,
+  God's Horsemen, stars without a stain,
+Whose home is in the deathless sky,
+  Whose glory in the sea's wild pain,
+Toiling to succour men that die:
+Long years above us hast thou been,
+  God-like for gold and marvelled power:
+  Ah, well may mortal eyes this hour
+Observe thy state: All hail, O Queen!
+
+_Enter from the right_ CLYTEMNESTRA _on a chariot, accompanied by richly
+dressed Handmaidens_.
+
+CLYTEMNESTRA.
+
+Down from the wain, ye dames of Troy, and hold
+Mine arm as I dismount....    [_Answering_ ELECTRA'S _thought_.
+                            The spoils and gold
+Of Ilion I have sent out of my hall
+To many shrines. These bondwomen are all
+I keep in mine own house.... Deemst thou the cost
+Too rich to pay me for the child I lost--
+Fair though they be?
+
+ELECTRA.
+
+                      Nay, Mother, here am I
+Bond likewise, yea, and homeless, to hold high
+Thy royal arm!
+
+CLYTEMNESTRA.
+
+               Child, the war slaves are here;
+Thou needst not toil.
+
+ELECTRA.
+
+                      What was it but the spear
+Of war, drove me forth too? Mine enemies
+Have sacked my father's house, and, even as these,
+Captives and fatherless, made me their prey.
+
+CLYTEMNESTRA.
+
+It was thy father cast his child away,
+A child he might have loved!... Shall I speak out?
+(_Controlling herself_) Nay; when a woman once is caught about
+With evil fame, there riseth in her tongue
+A bitter spirit--wrong, I know! Yet, wrong
+Or right, I charge ye look on the deeds done;
+And if ye needs must hate, when all is known,
+Hate on! What profits loathing ere ye know?
+  My father gave me to be his. 'Tis so.
+But was it his to kill me, or to kill
+The babes I bore? Yet, lo, he tricked my will
+With fables of Achilles' love: he bore
+To Aulis and the dark ship-clutching shore,
+He held above the altar-flame, and smote,
+Cool as one reaping, through the strainèd throat,
+My white Iphigenia.... Had it been
+To save some falling city, leaguered in
+With foemen; to prop up our castle towers,
+And rescue other children that were ours,
+Giving one life for many, by God's laws
+I had forgiven all! Not so. Because
+Helen was wanton, and her master knew
+No curb for her: for that, for that, he slew
+My daughter!--Even then, with all my wrong,
+No wild beast yet was in me. Nay, for long,
+I never would have killed him. But he came,
+At last, bringing that damsel, with the flame
+Of God about her, mad and knowing all:
+And set her in my room; and in one wall
+Would hold two queens!--O wild are woman's eyes
+And hot her heart. I say not otherwise.
+But, being thus wild, if then her master stray
+To love far off, and cast his own away,
+Shall not her will break prison too, and wend
+Somewhere to win some other for a friend?
+And then on us the world's curse waxes strong
+In righteousness! The lords of all the wrong
+Must hear no curse!--I slew him. I trod then
+The only road: which led me to the men
+He hated. Of the friends of Argos whom
+Durst I have sought, to aid me to the doom
+I craved?--Speak if thou wouldst, and fear not me,
+If yet thou deemst him slain unrighteously.
+
+LEADER.
+
+Thy words be just, yet shame their justice brings;
+A woman true of heart should bear all things
+From him she loves. And she who feels it not,
+I cannot reason of her, nor speak aught.
+
+ELECTRA.
+
+Remember, mother, thy last word of grace,
+Bidding me speak, and fear not, to thy face.
+
+CLYTEMNESTRA.
+
+So said I truly, child, and so say still.
+
+ELECTRA.
+
+Wilt softly hear, and after work me ill?
+
+CLYTEMNESTRA.
+
+Not so, not so. I will but pleasure thee.
+
+ELECTRA.
+
+I answer then. And, mother, this shall be
+My prayer of opening, where hangs the whole:
+Would God that He had made thee clean of soul!
+Helen and thou--O, face and form were fair,
+Meet for men's praise; but sisters twain ye were,
+Both things of naught, a stain on Castor's star,
+And Helen slew her honour, borne afar
+In wilful ravishment: but thou didst slay
+The highest man of the world. And now wilt say
+'Twas wrought in justice for thy child laid low
+At Aulis?... Ah, who knows thee as I know?
+Thou, thou, who long ere aught of ill was done
+Thy child, when Agamemnon scarce was gone,
+Sate at the looking-glass, and tress by tress
+Didst comb the twined gold in loneliness.
+When any wife, her lord being far away.
+Toils to be fair, O blot her out that day
+As false within! What would she with a cheek
+So bright in strange men's eyes, unless she seek
+Some treason? None but I, thy child, could so
+Watch thee in Hellas: none but I could know
+Thy face of gladness when our enemies
+Were strong, and the swift cloud upon thine eyes
+If Troy seemed falling, all thy soul keen-set
+Praying that he might come no more!... And yet
+It was so easy to be true. A king
+Was thine, not feebler, not in anything
+Below Aegisthus; one whom Hellas chose
+For chief beyond all kings. Aye, and God knows,
+How sweet a name in Greece, after the sin
+Thy sister wrought, lay in thy ways to win.
+Ill deeds make fair ones shine, and turn thereto
+Men's eyes.--Enough: but say he wronged thee; slew
+By craft thy child:--what wrong had I done, what
+The babe Orestes? Why didst render not
+Back unto us, the children of the dead,
+Our father's portion? Must thou heap thy bed
+With gold of murdered men, to buy to thee
+Thy strange man's arms? Justice! Why is not he
+Who cast Orestes out, cast out again?
+Not slain for me whom doubly he hath slain,
+In living death, more bitter than of old
+My sister's? Nay, when all the tale is told
+Of blood for blood, what murder shall we make,
+I and Orestes, for our father's sake?
+
+CLYTEMNESTRA.
+
+Aye, child; I know thy heart, from long ago.
+Thou hast alway loved him best. 'Tis oft-time so:
+One is her father's daughter, and one hot
+To bear her mother's part. I blame thee not....
+Yet think not I am happy, child; nor flown
+With pride now, in the deeds my hand hath done....
+    [_Seeing_ ELECTRA _unsympathetic, she checks herself_.
+  But thou art all untended, comfortless
+Of body and wild of raiment; and thy stress
+Of travail scarce yet ended!... Woe is me!
+'Tis all as I have willed it. Bitterly
+I wrought against him, to the last blind deep
+Of bitterness.... Woe's me!
+
+ELECTRA.
+
+                            Fair days to weep,
+When help is not! Or stay: though he lie cold
+Long since, there lives another of thy fold
+Far off; there might be pity for thy son?
+
+CLYTEMNESTRA.
+
+I dare not!... Yes, I fear him. 'Tis mine own
+Life, and not his, comes first. And rumour saith
+His heart yet burneth for his father's death.
+
+ELECTRA.
+
+Why dost thou keep thine husband ever hot
+Against me?
+
+CLYTEMNESTRA.
+
+            'Tis his mood. And thou art not
+So gentle, child!
+
+ELECTRA.
+
+                  My spirit is too sore!
+Howbeit, from this day I will no more
+Hate him.
+
+CLYTEMNESTRA (_with a flash of hope_).
+
+         O daughter!--Then, indeed, shall he,
+I promise, never more be harsh to thee!
+
+ELECTRA.
+
+He lieth in my house, as 'twere his own.
+'Tis that hath made him proud.
+
+CLYTEMNESTRA.
+
+                               Nay, art thou flown
+To strife again so quick, child?
+
+ELECTRA.
+
+                                 Well; I say
+No more; long have I feared him, and alway
+Shall fear him, even as now!
+
+CLYTEMNESTRA.
+
+                             Nay, daughter, peace!
+It bringeth little profit, speech like this...
+Why didst thou call me hither?
+
+ELECTRA.
+
+                               It reached thee,
+My word that a man-child is born to me?
+Do thou make offering for me--for the rite
+I know not--as is meet on the tenth night.
+I cannot; I have borne no child till now.
+
+CLYTEMNESTRA.
+
+Who tended thee? 'Tis she should make the vow.
+
+ELECTRA.
+
+None tended me. Alone I bare my child.
+
+CLYTEMNESTRA
+
+What, is thy cot so friendless? And this wild
+So far from aid?
+
+ELECTRA.
+
+                  Who seeks for friendship sake
+A beggar's house?
+
+CLYTEMNESTRA.
+
+                   I will go in, and make
+Due worship for thy child, the Peace-bringer.
+To all thy need I would be minister.
+Then to my lord, where by the meadow side
+He prays the woodland nymphs.
+                              Ye handmaids, guide
+My chariot to the stall, and when ye guess
+The rite draws near its end, in readiness
+Be here again. Then to my lord!... I owe
+My lord this gladness, too.
+
+[_The Attendants depart;_ CLYTEMNESTRA, _left alone, proceeds to enter the
+house_.
+
+ELECTRA.
+
+                            Welcome below
+My narrow roof! But have a care withal,
+A grime of smoke lies deep upon the wall.
+Soil not thy robe!...
+                      Not far now shall it be,
+The sacrifice God asks of me and thee.
+The bread of Death is broken, and the knife
+Lifted again that drank the Wild Bull's life:
+And on his breast.... Ha, Mother, hast slept well
+Aforetime? Thou shalt lie with him in Hell.
+That grace I give to cheer thee on thy road;
+Give thou to me--peace from my father's blood!
+    [_She follows her mother into the house_.
+
+CHORUS.
+
+  Lo, the returns of wrong.
+    The wind as a changèd thing
+  Whispereth overhead
+  Of one that of old lay dead
+  In the water lapping long:
+    My King, O my King!
+
+  A cry in the rafters then
+    Rang, and the marble dome:
+  "Mercy of God, not thou,
+  "Woman! To slay me now,
+  "After the harvests ten
+    "Now, at the last, come home!"
+
+  O Fate shall turn as the tide,
+    Turn, with a doom of tears
+  For the flying heart too fond;
+  A doom for the broken bond.
+  She hailed him there in his pride,
+    Home from the perilous years,
+
+  In the heart of his wallèd lands,
+    In the Giants' cloud-capt ring;
+  Herself, none other, laid
+  The hone to the axe's blade;
+  She lifted it in her hands,
+    The woman, and slew her king.
+
+  Woe upon spouse and spouse,
+    Whatso of evil sway
+  Held her in that distress!
+  Even as a lioness
+  Breaketh the woodland boughs
+    Starving, she wrought her way.
+
+VOICE OF CLYTEMNESTRA.
+
+O Children, Children; in the name of God,
+Slay not your mother!
+
+A WOMAN.
+
+                      Did ye hear a cry
+Under the rafters?
+
+ANOTHER.
+
+                   I weep too, yea, I;
+Down on the mother's heart the child hath trod!
+    [_A death-cry from within_.
+
+ANOTHER.
+
+God bringeth Justice in his own slow tide.
+  Aye, cruel is thy doom; but thy deeds done
+  Evil, thou piteous woman, and on one
+    Whose sleep was by thy side!
+
+[_The door bursts open, and_ ORESTES _and_ ELECTRA _come forth in
+disorder. Attendants bring out the bodies of_ CLYTEMNESTRA _and_
+AEGISTHUS.
+
+LEADER.
+
+Lo, yonder, in their mother's new-spilt gore
+Red-garmented and ghastly, from the door
+They reel.... O horrible! Was it agony
+Like this, she boded in her last wild cry?
+There lives no seed of man calamitous,
+Nor hath lived, like this seed of Tantalus.
+
+ORESTES.
+
+O Dark of the Earth, O God,
+  Thou to whom all is plain;
+Look on my sin, my blood,
+  This horror of dead things twain;
+Gathered as one they lie
+Slain; and the slayer was I,
+  I, to pay for my pain!
+
+ELECTRA.
+
+Let tear rain upon tear,
+  Brother: but mine is the blame.
+A fire stood over her,
+  And out of the fire I came,
+I, in my misery....
+And I was the child at her knee.
+  'Mother' I named her name.
+
+CHORUS.
+
+Alas for Fate, for the Fate of thee,
+O Mother, Mother of Misery:
+And Misery, lo, hath turned again,
+To slay thee, Misery and more,
+Even in the fruit thy body bore.
+Yet hast thou Justice, Justice plain,
+  For a sire's blood spilt of yore!
+
+ORESTES.
+
+Apollo, alas for the hymn
+  Thou sangest, as hope in mine ear!
+The Song was of Justice dim,
+  But the Deed is anguish clear;
+And the Gift, long nights of fear,
+  Of blood and of wandering,
+  Where cometh no Greek thing,
+Nor sight, nor sound on the air.
+Yea, and beyond, beyond,
+  Roaming--what rest is there?
+Who shall break bread with me?
+Who, that is clean, shall see
+And hate not the blood-red hand,
+  His mother's murderer?
+
+ELECTRA.
+
+And I? What clime shall hold
+  My evil, or roof it above?
+I cried for dancing of old,
+  I cried in my heart for love:
+What dancing waiteth me now?
+What love that shall kiss my brow
+  Nor blench at the brand thereof?
+
+CHORUS.
+
+Back, back, in the wind and rain
+Thy driven spirit wheeleth again.
+Now is thine heart made clean within
+That was dark of old and murder-fraught.
+But, lo, thy brother; what hast thou wrought....
+Yea, though I love thee.... what woe, what sin,
+  On him, who willed it not!
+
+
+ORESTES.
+
+Saw'st thou her raiment there,
+  Sister, there in the blood?
+  She drew it back as she stood,
+She opened her bosom bare,
+  She bent her knees to the earth,
+  The knees that bent in my birth....
+And I ... Oh, her hair, her hair....
+                         [_He breaks into inarticulate weeping_
+
+CHORUS.
+
+Oh, thou didst walk in agony,
+Hearing thy mother's cry, the cry
+Of wordless wailing, well know I.
+
+ELECTRA.
+
+She stretched her hand to my cheek,
+  And there brake from her lips a moan;
+  'Mercy, my child, my own!'
+Her hand clung to my cheek;
+Clung, and my arm was weak;
+  And the sword fell and was gone.
+
+CHORUS.
+
+Unhappy woman, could thine eye
+Look on the blood, and see her lie,
+Thy mother, where she turned to die?
+
+ORESTES.
+
+I lifted over mine eyes
+  My mantle: blinded I smote,
+As one smiteth a sacrifice;
+  And the sword found her throat.
+
+ELECTRA.
+
+I gave thee the sign and the word;
+I touched with mine hand thy sword.
+
+LEADER.
+
+Dire is the grief ye have wrought.
+
+ORESTES.
+
+Sister, touch her again:
+  Oh, veil the body of her;
+  Shed on her raiment fair,
+And close that death-red stain.
+  --Mother! And didst thou bear,
+Bear in thy bitter pain,
+  To life, thy murderer?
+
+[_The two kneel over the body of_ CLYTEMNESTRA, _and cover her with
+raiment_.
+
+ELECTRA.
+
+On her that I loved of yore,
+  Robe upon robe I cast:
+On her that I hated sore.
+
+CHORUS.
+
+O House that hath hated sore,
+  Behold thy peace at the last!
+
+       *       *       *       *       *
+
+LEADER.
+
+Ha, see: above the roof-tree high
+  There shineth ... Is some spirit there
+  Of earth or heaven? That thin air
+Was never trod by things that die!
+  What bodes it now that forth they fare,
+To men revealèd visibly?
+
+[_There appears in the air a vision of_ CASTOR _and_ POLYDEUCES. _The
+mortals kneel or veil their faces._
+
+CASTOR.
+
+Thou Agamemnon's Son, give ear! 'Tis we.
+Castor and Polydeuces, call to thee,
+God's Horsemen and thy mother's brethren twain.
+An Argive ship, spent with the toiling main,
+We bore but now to peace, and, here withal
+Being come, have seen thy mother's bloody fall,
+Our sister's. Righteous is her doom this day,
+But not thy deed. And Phoebus, Phoebus ... Nay;
+He is my lord; therefore I hold my peace.
+Yet though in light he dwell, no light was this
+He showed to thee, but darkness! Which do thou
+Endure, as man must, chafing not. And now
+Fare forth where Zeus and Fate have laid thy life.
+  The maid Electra thou shalt give for wife
+To Pylades; then turn thy head and flee
+From Argos' land. 'Tis never more for thee
+To tread this earth where thy dead mother lies.
+And, lo, in the air her Spirits, bloodhound eyes,
+Most horrible yet Godlike, hard at heel
+Following shall scourge thee as a burning wheel,
+Speed-maddened. Seek thou straight Athena's land,
+And round her awful image clasp thine hand,
+Praying: and she will fence them back, though hot
+With flickering serpents, that they touch thee not,
+Holding above thy brow her gorgon shield.
+  There is a hill in Athens, Ares' field,
+Where first for that first death by Ares done
+On Halirrhothius, Poseidon's son,
+Who wronged his daughter, the great Gods of yore
+Held judgment: and true judgments evermore
+Flow from that Hill, trusted of man and God.
+There shalt thou stand arraignèd of this blood;
+And of those judges half shall lay on thee
+Death, and half pardon; so shalt thou go free.
+For Phoebus in that hour, who bade thee shed
+Thy mother's blood, shall take on his own head
+The stain thereof. And ever from that strife
+The law shall hold, that when, for death or life
+Of one pursued, men's voices equal stand,
+Then Mercy conquereth.--But for thee, the band
+Of Spirits dread, down, down, in very wrath,
+Shall sink beside that Hill, making their path
+Through a dim chasm, the which shall aye be trod
+By reverent feet, where men may speak with God.
+But thou forgotten and far off shalt dwell,
+By great Alpheüs' waters, in a dell
+Of Arcady, where that gray Wolf-God's wall
+Stands holy. And thy dwelling men shall call
+Orestes Town. So much to thee be spoke.
+But this dead man, Aegisthus, all the folk
+Shall bear to burial in a high green grave
+Of Argos. For thy mother, she shall have
+Her tomb from Menelaus, who hath come
+This day, at last, to Argos, bearing home
+Helen. From Egypt comes she, and the hall
+Of Proteus, and in Troy hath ne'er at all
+Set foot. 'Twas but a wraith of Helen, sent
+By Zeus, to make much wrath and ravishment.
+  So forth for home, bearing the virgin bride,
+Let Pylades make speed, and lead beside
+Thy once-named brother, and with golden store
+Stablish his house far off on Phocis' shore.
+  Up, gird thee now to the steep Isthmian way,
+Seeking Athena's blessèd rock; one day,
+Thy doom of blood fulfilled and this long stress
+Of penance past, thou shalt have happiness.
+
+
+         LEADER (_looking up_).
+
+         Is it for us, O Seed of Zeus,
+           To speak and hear your words again!
+CASTOR.    Speak: of this blood ye bear no stain.
+ELECTRA. I also, sons of Tyndareus,
+
+         My kinsmen; may my word be said?
+CASTOR.    Speak: on Apollo's head we lay
+           The bloody doings of this day.
+LEADER.  Ye Gods, ye brethren of the dead,
+
+         Why held ye not the deathly herd
+           Of Kêres back from off this home?
+CASTOR.    There came but that which needs must come
+         By ancient Fate and that dark word
+
+         That rang from Phoebus in his mood.
+ELECTRA.   And what should Phoebus seek with me,
+           Or all God's oracles that be,
+         That I must bear my mother's blood?
+
+CASTOR.  Thy hand was as thy brother's hand,
+           Thy doom shall be as his. One stain,
+           From dim forefathers on the twain
+         Lighting, hath sapped your hearts as sand.
+
+ORESTES (_who has never raised his head, nor spoken to the Gods_).
+
+         After so long, sister, to see
+           And hold thee, and then part, then part,
+           By all that chained thee to my heart
+         Forsaken, and forsaking thee!
+
+CASTOR.  Husband and house are hers. She bears
+           No bitter judgment, save to go
+           Exiled from Argos.
+ELECTRA.                     And what woe,
+         What tears are like an exile's tears?
+
+ORESTES. Exiled and more am I; impure,
+           A murderer in a stranger's hand:
+CASTOR.    Fear not. There dwells in Pallas' land
+         All holiness. Till then endure!
+                                 [ORESTES _and_ ELECTRA _embrace_
+
+ORESTES. Aye, closer; clasp my body well,
+           And let thy sorrow loose, and shed,
+           As o'er the grave of one new dead,
+         Dead evermore, thy last farewell!    [_A sound of weeping_.
+
+CASTOR.  Alas, what would ye? For that cry
+           Ourselves and all the sons of heaven
+           Have pity. Yea, our peace is riven
+         By the strange pain of these that die.
+
+ORESTES. No more to see thee! ELECTRA. Nor thy breath
+           Be near my face! ORESTES. Ah, so it ends.
+ELECTRA.   Farewell, dear Argos. All ye friends,
+         Farewell! ORESTES. O faithful unto death,
+
+         Thou goest? ELECTRA. Aye, I pass from you,
+           Soft-eyed at last. ORESTES. Go, Pylades,
+           And God go with you! Wed in peace
+         My tall Electra, and be true.
+                            [ELECTRA _and_ PYLADES _depart to the left._
+
+CASTOR.
+
+         Their troth shall fill their hearts.--But on:
+           Dread feet are near thee, hounds of prey,
+           Snake-handed, midnight-visaged, yea,
+         And bitter pains their fruit! Begone!
+                                         [ORESTES _departs to the right_.
+
+         But hark, the far Sicilian sea
+           Calls, and a noise of men and ships
+           That labour sunken to the lips
+         In bitter billows; forth go we,
+
+         Through the long leagues of fiery blue,
+           With saving; not to souls unshriven;
+           But whoso in his life hath striven
+         To love things holy and be true,
+
+         Through toil and storm we guard him; we
+           Save, and he shall not die!--Therefore,
+           O praise the lying man no more,
+         Nor with oath-breakers sail the sea:
+           Farewell, ye walkers on the shore
+         Of death! A God hath counselled ye.
+                               [CASTOR _and_ POLYDEUCES _disappear_.
+
+                             CHORUS.
+
+         Farewell, farewell!--But he who can so fare,
+         And stumbleth not on mischief anywhere,
+              Blessed on earth is he!
+
+
+
+
+NOTES TO THE ELECTRA
+
+
+The chief characters in the play belong to one family, as is shown by the
+two genealogies:--
+
+
+I.
+
+                       TANTALUS
+                           |
+                         Pelops
+                 __________|__________________
+                 |                           |
+              Atreus                      Thyestes
+        _________|__________                 |
+        |                  |                 |
+    Agamemnon           Menelaus         Aegisthus
+  (=Clytemnestra)       (=Helen)      (=Clytemnestra)
+    _____|________________________
+    |             |              |
+Iphigenia       Electra        Orestes
+
+(Also, a sister of Agamemnon, name variously given, married Strophios, and
+was the mother of Pylades.)
+
+
+II.
+
+               Tyndareus = Leda = Zeus
+     ____________________|  ____|_________________________
+     |                      |               |             |
+Clytemnestra              Castor       Polydeuces       Helen
+
+
+P. 1, l. 10, Son of his father's foe.]--Both foe and brother. Atreus and
+Thyestes became enemies after the theft of the Golden Lamb. See pp. 47 ff.
+
+P. 2, l. 34, Must wed with me.]--In Aeschylus and Sophocles Electra is
+unmarried. This story of her peasant husband is found only in Euripides,
+but is not likely to have been wantonly invented by him. It was no doubt
+an existing legend--an [Greek: ôn logos], to use the phrase attributed to
+Euripides in the _Frogs_ (l. 1052). He may have chosen to adopt it for
+several reasons. First, to marry Electra to a peasant was a likely step
+for Aegisthus to take, since any child born to her afterwards would bear a
+stigma, calculated to damage him fatally as a pretender to the throne.
+Again, it seemed to explain the name "A-lektra" (as if from [Greek:
+lektron] "bed;" cf. Schol. _Orestes_, 71, Soph. _El_. 962, _Ant_. 917)
+more pointedly than the commoner version. And it helps in the working out
+of Electra's character (cf. pp. 17, 22, &c.). Also it gives an opportunity
+of introducing the fine character of the peasant. He is an [Greek:
+Autourgos] literally "self-worker," a man who works his own land, far from
+the city, neither a slave nor a slave-master; "the men," as Euripides says
+in the _Orestes_ (920), "who alone save a nation." (Cf, _Bac_., p. 115
+foot, and below, p. 26, ll. 367-390.) As Euripides became more and more
+alienated from the town democracy he tended, like Tolstoy and others, to
+idealise the workers of the soil.
+
+P. 6, l. 62, Children to our enemy.]--Cf. 626. Soph. _El_. 589. They do
+not seem to be in existence at the time of the play.
+
+Pp. 5-6.]--Electra's first two speeches are admirable as expositions of
+her character--the morbid nursing of hatred as a duty, the deliberate
+posing, the impulsiveness, the quick response to kindness.
+
+P. 7, l. 82, Pylades.]--Pylades is a _persona muta_ both here and in
+Sophocles' _Electra_, a fixed traditional figure, possessing no quality
+but devotion to Orestes. In Aeschylus' _Libation-Bearers_ he speaks only
+once, with tremendous effect, at the crisis of the play, to rebuke Orestes
+when his heart fails him. In the _Iphigenia in Tauris_, however, and still
+more in the _Orestes_, he is a fully studied character.
+
+P. 10, l. 151, A swan crying alone.]--Cf. _Bacchae_, p. 152, "As yearns
+the milk-white swan when old swans die."
+
+P. 11, ll. 169 ff., The Watcher hath cried this day.]--Hera was an old
+Pelasgian goddess, whose worship was kept in part a mystery from the
+invading Achaeans or Dorians. There seems to have been a priest born "of
+the ancient folk," _i.e._, a Pelasgian or aboriginal Mycenaean, who, by
+some secret lore--probably some ancient and superseded method of
+calculating the year--knew when Hera's festival was due, and walked round
+the country three days beforehand to announce it. He drank "the milk of
+the flock" and avoided wine, either from some religious taboo, or because
+he represented the religion of the milk-drinking mountain shepherds.
+
+P. 13, ll. 220 ff.]--Observe Electra's cowardice when surprised; contrast
+her courage, p. 47, when sending Orestes off, and again her quick drop to
+despair when the news does not come soon enough.
+
+P. 16, ll. 247 ff., I am a wife.... O better dead!]--Rather ungenerous,
+when compared with her words on p. 6. (Cf. also her words on pp. 24 and
+26.) But she feels this herself, almost immediately. Orestes naturally
+takes her to mean that her husband is one of Aegisthus' friends. This
+would have ruined his plot. (Cf. above, p. 8, l. 98.)
+
+P. 22, l. 312, Castor.]--I know no other mention of Electra's betrothal to
+Castor. He was her kinsman: see below on l. 990.
+
+Pp. 22-23, ll. 300-337.]--In this wonderful outbreak, observe the mixture
+of all sorts of personal resentments and jealousies with the devotion of
+the lonely woman to her father and her brother. "So men say," is an
+interesting touch; perhaps conscience tells her midway that she does not
+quite believe what she is saying. So is the self-conscious recognition of
+her "bitter burning brain" that interprets all things in a sort of
+distortion.--Observe, too, how instinctively she turns to the peasant for
+sympathy in the strain of her emotion. It is his entrance, perhaps, which
+prevents Orestes from being swept away and revealing himself. The
+peasant's courage towards two armed men is striking, as well as his
+courtesy and his sanity. He is the one character in the play not somehow
+tainted with blood-madness.
+
+P. 27, ll. 403, 409.]--Why does Electra send her husband to the Old Man?
+Not, I think, really for want of the food. It would have been easier to
+borrow (p. 12, l. 191) from the Chorus; and, besides, what the peasant
+says is no doubt true, that, if she liked, she could find "many a pleasant
+thing" in the house. I think she sends for the Old Man because he is the
+only person who would know Orestes (p. 21, l. 285). She is already, like
+the Leader (p. 26, l. 401), excited by hopes which she will not confess.
+This reading makes the next scene clearer also.
+
+Pp. 28-30, ll. 432-487, O for the Ships of Troy.]--The two main Choric
+songs of this play are markedly what Aristotle calls [Greek: embolima]
+"things thrown in." They have no effect upon the action, and form little
+more than musical "relief." Not that they are positively irrelevant.
+Agamemnon is in our minds all through the play, and Agamemnon's glory is
+of course enhanced by the mention of Troy and the praises of his
+subordinate king, Achilles.
+
+Thetis, the Nereid, or sea-maiden, was won to wife by Peleus. (He wrestled
+with her on the seashore, and never loosed hold, though she turned into
+divers strange beings--a lion, and fire, and water, and sea-beasts.) She
+bore him Achilles, and then, unable permanently to live with a mortal,
+went back beneath the sea. When Achilles was about to sail to Troy, she
+and her sister Nereids brought him divine armour, and guided his ships
+across the Aegean. The designs on Achilles' armour, as on Heracles'
+shield, form a fairly common topic of poetry.
+
+The descriptions of the designs are mostly clear. Perseus with the
+Gorgon's head, guided by Hermês; the Sun on a winged chariot, and stars
+about him; two Sphinxes, holding as victims the men who had failed to
+answer the riddles which they sang; and, on the breastplate, the Chimaera
+attacking Bellerophon's winged horse, Pêgasus. The name Pêgasus suggested
+to a Greek [Greek: pegê], "fountain;" and the great spring of Pirênê, near
+Corinth, was made by Pêgasus stamping on the rock.
+
+Pp. 30-47.]--The Old Man, like other old family servants in Euripides--the
+extreme case is in the _Ion_--is absolutely and even morbidly devoted to
+his masters. Delightful in this first scene, he becomes a little horrible
+in the next, where they plot the murders; not only ferocious himself, but,
+what seems worse, inclined to pet and enjoy the bloodthirstiness of his
+"little mistress."
+
+Pp. 30-33, ll. 510-545.]--The Signs of Orestes. This scene, I think, has
+been greatly misunderstood by critics. In Aeschylus' _Libation-Bearers_,
+which deals with the same subject as the _Electra_, the scene is at
+Agamemnon's tomb. Orestes lays his tress there in the prologue. Electra
+comes bringing libations, sees the hair, compares it with her own, finds
+that it is similar "wing for wing" ([Greek: homopteros]--the same word as
+here), and guesses that it belongs to Orestes. She then measures the
+footprints, and finds one that is like her own, one not; evidently Orestes
+and a fellow-traveller! Orestes enters and announces himself; she refuses
+to believe, until he shows her a "woven thing," perhaps the robe which he
+is wearing, which she recognises as the work of her own hand.
+
+The same signs, described in one case by the same peculiar word, occur
+here. The Old Man mentions one after the other, and Electra refutes or
+rejects them. It has been thought therefore that this scene was meant as
+an attack--a very weak and undignified attack--on Euripides' great master.
+No parallel for such an artistically ruinous proceeding is quoted from any
+Greek tragedy. And, apart from the improbability _a priori_, I do not
+think it even possible to read the scene in this sense. To my mind,
+Electra here rejects the signs not from reason, but from a sort of nervous
+terror. She dares not believe that Orestes has come; because, if it prove
+otherwise, the disappointment will be so terrible. As to both signs, the
+lock of hair and the footprints, her arguments may be good; but observe
+that she is afraid to make the comparison at all. And as to the footprint,
+she says there cannot be one, when the Old Man has just seen it! And,
+anyhow, she will not go to see it! Similarly as to the robe, she does her
+best to deny that she ever wove it, though she and the Old Man both
+remember it perfectly. She is fighting tremulously, with all her flagging
+strength, against the thing she longs for. The whole point of the scene
+requires that one ray of hope after another should be shown to Electra,
+and that she should passionately, blindly, reject them all. That is what
+Euripides wanted the signs for.
+
+But why, it may be asked, did he adopt Aeschylus' signs, and even his
+peculiar word? Because, whether invented by Aeschylus or not, these signs
+were a canonical part of the story by the time Euripides wrote. Every one
+who knew the story of Orestes' return at all, knew of the hair and the
+footprint. Aristophanes in the _Clouds_ (534 ff.) uses them proverbially,
+when he speaks of his comedy "recognising its brother's tress." It would
+have been frivolous to invent new ones. As a matter of fact, it seems
+probable that the signs are older than Aeschylus; neither they nor the
+word [Greek: homopteros] particularly suit Aeschylus' purpose. (Cf. Dr.
+Verrall's introduction to the _Libation-Bearers_.) They probably come from
+the old lyric poet, Stesichorus.
+
+P. 43, l. 652, New-mothered of a Man-Child.]--Her true Man-Child, the
+Avenger whom they had sought to rob her of! This pitiless plan was
+suggested apparently by the sacrifice to the Nymphs (p. 40). "Weep my
+babe's low station" is of course ironical. The babe would set a seal on
+Electra's degradation to the peasant class, and so end the blood-feud, as
+far as she was concerned. Clytemnestra, longing for peace, must rejoice in
+Electra's degradation. Yet she has motherly feelings too, and in fact
+hardly knows what to think or do till she can consult Aegisthus (p. 71).
+Electra, it would seem, actually calculates upon these feelings, while
+despising them.
+
+P. 45, l. 669, If but some man will guide me.]--A suggestion of the
+irresolution or melancholia that beset Orestes afterwards, alternating
+with furious action. (Cf. Aeschylus' _Libation-Bearers_, Euripides'
+_Andromache_ and _Orestes_.)
+
+P. 45, l. 671, Zeus of my sires, &c]--In this invocation, short and
+comparatively unmoving, one can see perhaps an effect of Aeschylus' play.
+In the _Libation-Bearers_ the invocation of Agamemnon comprises 200 lines
+of extraordinarily eloquent poetry.
+
+P. 47 ff., ll. 699 ff.]--The Golden Lamb. The theft of the Golden Lamb is
+treated as a story of the First Sin, after which all the world was changed
+and became the poor place that it now is. It was at least the First Sin in
+the blood-feud of this drama.
+
+The story is not explicitly told. Apparently the magic lamb was brought by
+Pan from the gods, and given to Atreus as a special grace and a sign that
+he was the true king. His younger brother, Thyestes, helped by Atreus'
+wife, stole it and claimed to be king himself. So good was turned into
+evil, and love into hatred, and the stars shaken in their courses.
+
+[It is rather curious that the Lamb should have such a special effect upon
+the heavens and the weather. It is the same in Plato (_Polit._ 268 ff.),
+and more definitely so in the treatise _De Astrologia,_ attributed to
+Lucian, which says that the Golden Lamb is the constellation Aries, "The
+Ram." Hugo Winckler (_Weltanschauung des alten Orients_, pp. 30, 31)
+suggests that the story is a piece of Babylonian astronomy misunderstood.
+It seems that the vernal equinox, which is now moving from the Ram into
+the Fish, was in the ninth and eighth centuries B.C. moving from the Bull
+into the Ram. Now the Bull, Marduk, was the special god of Babylon, and
+the time when he yielded his place to the Ram was also, as a matter of
+fact, the time of the decline of Babylon. The gradual advance of the Ram
+not only upset the calendar, and made all the seasons wrong; but seemed,
+since it coincided with the fall of the Great City, to upset the world in
+general! Of course Euripides would know nothing of this. He was apparently
+attracted to the Golden Lamb merely by the quaint beauty of the story.]
+
+P. 50, l. 746, Thy brethren even now.]--Castor and Polydeuces, who were
+received into the stars after their death. See below, on l. 990.
+
+P. 51, l. 757, That answer bids me die.]--Why? Because Orestes, if he won
+at all, would win by a surprise attack, and would send news instantly. A
+prolonged conflict, without a message, would mean that Orestes and Pylades
+were being overpowered. Of course she is wildly impatient.
+
+P. 51, l. 765, Who an thou? I mistrust thee.]--Just as she mistrusted the
+Old Man's signs. See above, p. 89.
+
+P. 52 ff., ll. 774 ff.]--Messenger's Speech. This speech, though swift
+and vivid, is less moving and also less sympathetic than most of the
+Messengers' Speeches. Less moving, because the slaying of Aegisthus has
+little moral interest; it is merely a daring and dangerous exploit. Less
+sympathetic, because even here, in the first and comparatively blameless
+step of the blood-vengeance, Euripides makes us feel the treacherous side
+of it. A [Greek: dolophonia], a "slaying by guile," even at its best,
+remains rather an ugly thing.
+
+P. 53, l. 793, Then quickly spake Orestes.]--If Orestes had washed with
+Aegisthus, he would have become his _xenos_, or guest, as much as if he
+had eaten his bread and salt. In that case the slaying would have been
+definitely a crime, a dishonourable act. Also, Aegisthus would have had
+the right to ask his name.--The unsuspiciousness of Aegisthus is partly
+natural; it was not thus, alone and unarmed, that he expected Orestes to
+stand before him. Partly it seems like a heaven-sent blindness. Even the
+omens do not warn him, though no doubt in a moment more they would have
+done so.
+
+P. 56, l. 878, With guile he hath slain.]--So the MSS. The Chorus have
+already a faint feeling, quickly suppressed, that there may be another
+side to Orestes' action. Most editors alter the text to mean "He hath
+slain these guileful ones."
+
+P. 58, l. 900, It shames me, yet God knows I hunger sore.]--To treat the
+dead with respect was one of the special marks of a Greek as opposed to a
+barbarian. It is possible that the body of Aegisthus might legitimately
+have been refused burial, or even nailed on a cross as Orestes in a moment
+of excitement suggests. But to insult him lying dead would be a shock to
+all Greek feeling. ("Unholy is the voice of loud thanksgiving over
+slaughtered men," _Odyssey_ xxii. 412.) Any excess of this kind, any
+violence towards the helpless, was apt to rouse "The sleeping wrath of the
+world." There was a Greek proverb, "Even an injured dog has his Erinys"--
+_i.e._, his unseen guardian or avenger. It is interesting, though not
+surprising, to hear that men had little love for Electra. The wonderful
+speech that follows, though to a conventional Greek perhaps the most
+outrageous thing of which she is guilty, shows best the inherent nobility
+of her character before years of misery had "killed her soul within."
+
+P. 59, ll. 928 f., Being in falseness one, &c]--The Greek here is very
+obscure and almost certainly corrupt.
+
+P. 61, l. 964, 'Tis my mother comes.]--The reaction has already begun in
+Orestes. In the excitement and danger of killing his enemy he has shown
+coolness and courage, but now a work lies before him vastly more horrible,
+a little more treacherous, and with no element of daring to redeem it.
+Electra, on the other hand, has done nothing yet; she has merely tried,
+not very successfully, to revile the dead body, and her hate is
+unsatisfied. Besides, one sees all through the play that Aegisthus was a
+kind of odious stranger to her; it was the woman, her mother, who came
+close to her and whom she really hated.
+
+P. 63, l. 979, Was it some fiend of Hell?]--The likeness to _Hamlet_ is
+obvious. ("The spirit that I have seen May be the Devil." End of Act II.)
+
+P. 63, l. 983, How shall it be then, the same stealthy blow?...]--He
+means, I think, "the same as that with which I have already murdered an
+unsuspecting man to-day," but Electra for her own purposes misinterprets
+him.
+
+P. 64, l. 990, God's horsemen, stars without a stain.]--Cf. above, ll.
+312, 746. Castor and Polydeuces were sons of Zeus and Leda, brothers of
+Helen, and half-brothers of Clytemnestra, whose father was the mortal
+Tyndareus. They lived as knights without reproach, and afterwards became
+stars and demigods. The story is told that originally Castor was mortal
+and Polydeuces immortal; but when Castor was fatally wounded Polydeuces
+prayed that he might be allowed to give him half his immortality. The
+prayer was granted; and the two live as immortals, yet, in some mysterious
+way, knowing the taste of death. Unlike the common sinners and punishers
+of the rest of the play, these Heroes find their "glory" in saving men
+from peril and suffering, especially at sea, where they appear as the
+globes of light, called St. Elmo's fire, upon masts and yards.
+
+Pp. 64-71, ll. 998 ff.]--Clytemnestra. "And what sort of woman is this
+doomed and 'evil' Queen? We know the majestic murderess of Aeschylus, so
+strong as to be actually beautiful, so fearless and unrepentant that one
+almost feels her to be right. One can imagine also another figure that
+would be theatrically effective--a 'sympathetic' sinner, beautiful and
+penitent, eager to redeem her sin by self-sacrifice. But Euripides gives
+us neither. Perhaps he believed in neither. It is a piteous and most real
+character that we have here, in this sad middle-aged woman, whose first
+words are an apology; controlling quickly her old fires, anxious to be as
+little hated as possible. She would even atone, one feels, if there were
+any safe way of atonement; but the consequences of her old actions are
+holding her, and she is bound to persist.... In her long speech it is
+scarcely to Electra that she is chiefly speaking; it is to the Chorus,
+perhaps to her own bondmaids; to any or all of the people whose shrinking
+so frets her." (_Independent Review, l.c._)
+
+P. 65, l. 1011, Cast his child away.]--The Greek fleet assembled for Troy
+was held by contrary winds at Aulis, in the Straits of Euboea, and the
+whole expedition was in danger of breaking up. The prophets demanded a
+human sacrifice, and Agamemnon gave his own daughter, Iphigenîa. He
+induced Clytemnestra to send her to him, by the pretext that Achilles had
+asked for her in marriage.
+
+P. 66, l. 1046, Which led me to the men he hated.]--It made Clytemnestra's
+crime worse, that her accomplice was the blood-foe.
+
+Pp. 65-68. As elsewhere in Euripides, these two speeches leave the matter
+undecided. He does not attempt to argue the case out. He gives us a flash
+of light, as it were, upon Clytemnestra's mind and then upon Electra's.
+Each believes what she is saying, and neither understands the whole truth.
+It is clear that Clytemnestra, being left for ten years utterly alone, and
+having perhaps something of Helen's temperament about her, naturally fell
+in love with the Lord of a neighbouring castle; and having once committed
+herself, had no way of saving her life except by killing her husband, and
+afterwards either killing or keeping strict watch upon Orestes and
+Electra. Aegisthus, of course, was deliberately plotting to carry out his
+blood-feud and to win a great kingdom.
+
+P. 72, l. 1156, For the flying heart too fond.]--The text is doubtful, but
+this seems to be the literal translation, and the reference to
+Clytemnestra is intelligible enough.
+
+P. 73, l. 1157, The giants' cloud-capped ring.]--The great walls of
+Mycenae, built by the Cyclôpes; cf. _Trojan Women_, p. 64, "Where the
+towers of the giants shine O'er Argos cloudily."
+
+P. 75, l. 1201, Back, back in the wind and rain.]--The only explicit moral
+judgment of the Chorus; cf. note on l. 878.
+
+P. 77, l. 1225, I touched with my hand thy sword.]--_i.e._, Electra
+dropped her own sword in horror, then in a revulsion of feeling laid her
+hand upon Orestes' sword--out of generosity, that he might not bear his
+guilt alone.
+
+P. 78, l. 1241, An Argive ship.]--This may have been the ship of Menelaus,
+which was brought to Argos by Castor and Polydeuces, see l. 1278. _Helena_
+1663. The ships labouring in the "Sicilian sea" (p. 82, l. 1347) must have
+suggested to the audience the ships of the great expedition against
+Sicily, then drawing near to its destruction. The Athenian fleet was
+destroyed early in September 413 B.C.: this play was probably produced in
+the spring of the same year, at which time the last reinforcements were
+being sent out.
+
+P. 78, l. 1249.]--Marriage of Pylades and Electra. A good example of the
+essentially historic nature of Greek tragedy. No one would have invented a
+marriage between Electra and Pylades for the purposes of this play. It is
+even a little disturbing. But it is here, because it was a fixed fact in
+the tradition (cf. _Iphigenia in Tauris_, l. 915 ff.), and could not be
+ignored. Doubtless these were people living who claimed descent from
+Pylades and Electra.
+
+P. 79, l. 1253, Scourge thee as a burning wheel.]--At certain feasts a big
+wheel soaked in some inflammable resin or tar was set fire to and rolled
+down a mountain.
+
+P. 79, l. 1258, There is a hill in Athens.]--The great fame of the
+Areopagus as a tribunal for man-slaying (see Aeschylus' _Eumenides_)
+cannot have been due merely to its incorruptibility. Hardly any Athenian
+tribunal was corruptible. But the Areopagus in very ancient times seems to
+have superseded the early systems of "blood-feud" or "blood-debt" by a
+humane and rational system of law, taking account of intention,
+provocation, and the varying degrees of guilt. The Erinyes, being the old
+Pelasgian avengers of blood, now superseded, have their dwelling in a
+cavern underneath the Areopagus.
+
+P. 80, ll. 1276 ff.]--The graves of Aegisthus and Clytemnestra actually
+existed in Argos (Paus. ii. 16, 7). They form, so to speak, the concrete
+material fact round which the legend of this play circles (cf. Ridgeway in
+_Hellenic Journal_, xxiv. p. xxxix.).
+
+P. 80, l. 1280.]--Helen. The story here adumbrated is taken from
+Stesichorus, and forms the plot of Euripides' play _Helena_ (cf.
+Herodotus, ii. 113 ff.).
+
+P. 80, l, 1295, I also, sons of Tyndareus.]--Observe that Electra claims
+the gods as cousins (cf. p. 22, l. 313), addressing them by the name of
+their mortal father. The Chorus has called them "sons of Zeus." In the
+same spirit she faces the gods, complains, and even argues, while Orestes
+never raises his eyes to them.
+
+P. 80, l. 1300.]--Kêres. The death-spirits that flutter over our heads, as
+Homer says, "innumerable, whom no man can fly nor hide from."
+
+P. 82, l. 1329, Yea, our peace is riven by the strange pain of these that
+die.]--Cf. the attitude of Artemis at the end of the _Hippolytus_.
+Sometimes Euripides introduces gods whose peace is not riven, but then
+they are always hateful. (Cf. Aphrodite in the _Hippolytus_, Dionysus in
+the _Bacchae_, Athena in the _Trojan Women_.)
+
+P. 82, l. 1336, O faithful unto death.]--This is the last word we hear of
+Electra, and it is interesting. With all her unlovely qualities it remains
+true that she was faithful--faithful to the dead and the absent, and to
+what she looked upon as a fearful duty.
+
+       *       *       *       *       *
+
+Additional Note on the presence of the Argive women during the plot
+against the King and Queen. (Cf. especially p. 19, l. 272, These women
+hear us.)--It would seem to us almost mad to speak so freely before the
+women. But one must observe: 1. Stasis, or civil enmity, ran very high in
+Greece, and these women were of the party that hated Aegisthus. 2. There
+runs all through Euripides a very strong conception of the cohesiveness of
+women, their secretiveness, and their faithfulness to one another. Medea,
+Iphigenia, and Creusa, for instance, trust their women friends with
+secrets involving life and death, and the secrets are kept. On the other
+hand, when a man--Xuthus in the _Ion_--tells the Chorus women a secret,
+they promptly and with great courage betray him. Aristophanes leaves the
+same impression; and so do many incidents in Greek history. Cf. the
+murders plotted by the Athenian women (Hdt. v. 87), and both by and
+against the Lemnian women (Hdt. vi. 138). The subject is a large one, but
+I would observe: 1. Athenian women were kept as a rule very much together,
+and apart from men. 2. At the time of the great invasions the women of a
+community must often have been of different race from the men; and this
+may have started a tradition of behaviour. 3. Members of a subject (or
+disaffected) nation have generally this cohesiveness: in Ireland, Poland,
+and parts of Turkey the details of a political crime will, it is said, be
+known to a whole country side, but not a whisper come to the authorities.
+
+Of course the mere mechanical fact that the Chorus had to be present on
+the stage counts for something. It saved the dramatist trouble to make his
+heroine confide in the Chorus. But I do not think Euripides would have
+used this situation so often unless it had seemed to him both true to life
+and dramatically interesting.
+
+
+
+
+
+End of the Project Gutenberg EBook of The Electra of Euripides, by Euripides
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ELECTRA OF EURIPIDES ***
+
+***** This file should be named 14322-8.txt or 14322-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/4/3/2/14322/
+
+Produced by Paul Murray, Charles Bidwell and the PG Online Distributed
+Proofreading Team.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
