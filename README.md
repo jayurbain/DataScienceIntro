@@ -262,9 +262,9 @@ Outcomes addressed in week 8:
 #### Lecture:    
 1. [Gradient Boosting, XGBoost](slides/gradient_boosting.ipynb)  
 *Notebooks:*   
-- [Random Forests](notebooks/Random-Forests.ipynb) *optional*
-- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *optional*  
-- [Ensembling](notebooks/16_ensembling.ipynb) *optional*  
+- [Random Forests](notebooks/Random-Forests.ipynb) 
+- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb)   
+- [Ensembling](notebooks/16_ensembling.ipynb) 
 
 2. Time Series   
 *Notebooks:*   
@@ -289,11 +289,10 @@ Outcomes addressed in week 10:
 #### Lecture:
 
 1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
-*Notebooks:*   
+*Notebooks:*  
 - [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) 
 - [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb) 
 - [PCA Tutorial with Historical Texts](notebooks/PCA&32;Tutorial/PCA&32;Tutorial&32;with&32;Historical&32;Texts.ipynb)  
-- PCA Tutorial with Historical Texts.ipynb
 - Reading: MMDS Ch. 9        
 
 2. Final Exam - Thursday 8am-9am S-107   
