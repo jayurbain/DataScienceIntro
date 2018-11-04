@@ -265,9 +265,8 @@ Outcomes addressed in week 8:
 - [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *optional*  
 - [Ensembling](notebooks/16_ensembling.ipynb) *optional*  
 
-2. Time Series
+2. Time Series   
 [Worked example: air passenger prediction](notebooks/Time_Series/AirPassengersPrediction.ipynb)  
-[Time Series Feature Engineering](notebooks/Time_Series/Time_Series_Feature_Engineering.ipynb)  
 [Time Series Load and Explore Data](notebooks/Time_Series/Time_Series_Load_and_Explore_Data.ipynb)  
 
 Outcomes addressed in week 10:
@@ -288,8 +287,10 @@ Outcomes addressed in week 10:
 #### Lecture:
 
 1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
-- [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) *optional*
-- [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb) *optional*  
+- [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) 
+- [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb) 
+- [PCA Tutorial with Historical Texts](notebooks/PCA&32;Tutorial/PCA&32;Tutorial&32;with&32;Historical&32;Texts.ipynb)  
+- PCA Tutorial with Historical Texts.ipynb
 - Reading: MMDS Ch. 9        
 
 2. Final Exam - Thursday 8am-9am S-107   
