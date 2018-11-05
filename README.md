@@ -289,14 +289,14 @@ Outcomes addressed in week 10:
 #### Lecture:
 
 1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
-*Notebooks:*  
+*Notebooks:*     
 - [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) 
 - [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb) 
 - [PCA Tutorial with Historical Texts](notebooks/PCA&32;Tutorial/PCA&32;Tutorial&32;with&32;Historical&32;Texts.ipynb)  
 - Reading: MMDS Ch. 9        
 
 2. Final Exam - Thursday 8am-9am S-107   
-- [Final Exam Study Guide](handouts/Midterm-Review.pdf) 
+- [Final Exam Study Guide](handouts/Final-Review.pdf) 
 
 #### Lab Notebooks:     
 Work on Data Science Project     
