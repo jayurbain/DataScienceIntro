@@ -289,17 +289,21 @@ Outcomes addressed in week 10:
 #### Lecture:
 
 1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
-*Notebooks:*     
-- [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) 
-- [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb) 
-- [PCA Tutorial with Historical Texts](notebooks/PCA&32;Tutorial/PCA&32;Tutorial&32;with&32;Historical&32;Texts.ipynb)  
+*Notebooks:*  
+- [PCA](notebooks/classification-and-pca-lab.ipynb)       
+ 
+- [PCA Tutorial with Historical Texts](notebooks/Principal-Component-Analysis.ipynb)  
 - Reading: MMDS Ch. 9        
 
 2. Final Exam - Thursday 8am-9am S-107   
 - [Final Exam Study Guide](handouts/Final-Review.pdf) 
 
 #### Lab Notebooks:     
-Work on Data Science Project     
+Work on Data Science Project 
+
+Optional:    
+- [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) *optional*   
+- [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb) *optional* 
 
 Outcomes addressed in week 9:   
 - The ability to perform unsupervised learning.  
@@ -311,6 +315,9 @@ Outcomes addressed in week 9:
 Monday, 8:00 AM - 10:00 AM, S107  
 ---
 <!--
+
+- [SVD](labs/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb) 
+- [PCA](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)
 
 2. [Collaborative Filtering](slides/12_collaborative_filtering.pdf)
 - Reading: PDSH Ch. 5 p. 433-444
